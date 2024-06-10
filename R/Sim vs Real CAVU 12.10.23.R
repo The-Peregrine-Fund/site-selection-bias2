@@ -1,7 +1,3 @@
-
-# clean working space
-rm(list = ls())
-
 # load packages
 library(Rfast)
 library(tidyr)
@@ -24,7 +20,6 @@ theme_x=(function (base_size = 16, base_family = "")
 
 
 #### Figure 1 ####
-
 nsites = 100 ; nsurveys = 1 ; nyears = 10 ; mean.beta = 0 ; sd.lam = c(0, 0)
 my_rate = c(0.0005, 0.005, 0.05)
 nsim = 1000
@@ -89,17 +84,12 @@ df_abundances_05 <- format_my_data(N_matrix = saved_N[[3]])
 my_palette <- viridis(n = 6)
 
 plot_rate_0005 <- ggplot(df_abundances_0005, aes(x = year, y = abundance, group = site_ID)) +
-#  geom_line(color = "lightgrey", size = 1) +
   geom_line(data = subset(df_abundances_0005, df_abundances_0005$site_ID == "1"), color = my_palette[1], size = 1) +
   geom_line(data = subset(df_abundances_0005, df_abundances_0005$site_ID == "2"), color = my_palette[2], size = 1) +
   geom_line(data = subset(df_abundances_0005, df_abundances_0005$site_ID == "3"), color = my_palette[3], size = 1) +
   geom_line(data = subset(df_abundances_0005, df_abundances_0005$site_ID == "4"), color = my_palette[4], size = 1) +
   geom_line(data = subset(df_abundances_0005, df_abundances_0005$site_ID == "5"), color = my_palette[5], size = 1) +
   geom_line(data = subset(df_abundances_0005, df_abundances_0005$site_ID == "6"), color = my_palette[6], size = 1) +
-  # geom_line(data = subset(df_abundances_0005, df_abundances_0005$site_ID == "7"), color = my_palette[7], size = 1) +
-  # geom_line(data = subset(df_abundances_0005, df_abundances_0005$site_ID == "8"), color = my_palette[8], size = 1) +
-  # geom_line(data = subset(df_abundances_0005, df_abundances_0005$site_ID == "9"), color = my_palette[9], size = 1) +
-  # geom_line(data = subset(df_abundances_0005, df_abundances_0005$site_ID == "10"), color = my_palette[10], size = 1) +
   theme_classic() +
   theme(text = element_text(size = 15), plot.title = element_text(hjust = 0.5)) +
   xlab("Year") +
@@ -107,17 +97,12 @@ plot_rate_0005 <- ggplot(df_abundances_0005, aes(x = year, y = abundance, group 
   ggtitle("Rate = 0.0005")
 
 plot_rate_005 <- ggplot(df_abundances_005, aes(x = year, y = abundance, group = site_ID)) +
-#  geom_line(color = "lightgrey", size = 1) +
   geom_line(data = subset(df_abundances_005, df_abundances_005$site_ID == "1"), color = my_palette[1], size = 1) +
   geom_line(data = subset(df_abundances_005, df_abundances_005$site_ID == "2"), color = my_palette[2], size = 1) +
   geom_line(data = subset(df_abundances_005, df_abundances_005$site_ID == "3"), color = my_palette[3], size = 1) +
   geom_line(data = subset(df_abundances_005, df_abundances_005$site_ID == "4"), color = my_palette[4], size = 1) +
   geom_line(data = subset(df_abundances_005, df_abundances_005$site_ID == "5"), color = my_palette[5], size = 1) +
   geom_line(data = subset(df_abundances_005, df_abundances_005$site_ID == "6"), color = my_palette[6], size = 1) +
-  # geom_line(data = subset(df_abundances_005, df_abundances_005$site_ID == "7"), color = my_palette[7], size = 1) +
-  # geom_line(data = subset(df_abundances_005, df_abundances_005$site_ID == "8"), color = my_palette[8], size = 1) +
-  # geom_line(data = subset(df_abundances_005, df_abundances_005$site_ID == "9"), color = my_palette[9], size = 1) +
-  # geom_line(data = subset(df_abundances_005, df_abundances_005$site_ID == "10"), color = my_palette[10], size = 1) +
   theme_classic() +
   theme(text = element_text(size = 15), plot.title = element_text(hjust = 0.5)) +
   xlab("Year") +
@@ -125,17 +110,12 @@ plot_rate_005 <- ggplot(df_abundances_005, aes(x = year, y = abundance, group = 
   ggtitle("Rate = 0.005")
 
 plot_rate_05 <- ggplot(df_abundances_05, aes(x = year, y = abundance, group = site_ID)) +
-#  geom_line(color = "lightgrey", size = 1) +
   geom_line(data = subset(df_abundances_05, df_abundances_05$site_ID == "1"), color = my_palette[1], size = 1) +
   geom_line(data = subset(df_abundances_05, df_abundances_05$site_ID == "2"), color = my_palette[2], size = 1) +
   geom_line(data = subset(df_abundances_05, df_abundances_05$site_ID == "3"), color = my_palette[3], size = 1) +
   geom_line(data = subset(df_abundances_05, df_abundances_05$site_ID == "4"), color = my_palette[4], size = 1) +
   geom_line(data = subset(df_abundances_05, df_abundances_05$site_ID == "5"), color = my_palette[5], size = 1) +
   geom_line(data = subset(df_abundances_05, df_abundances_05$site_ID == "6"), color = my_palette[6], size = 1) +
-  # geom_line(data = subset(df_abundances_05, df_abundances_05$site_ID == "7"), color = my_palette[7], size = 1) +
-  # geom_line(data = subset(df_abundances_05, df_abundances_05$site_ID == "8"), color = my_palette[8], size = 1) +
-  # geom_line(data = subset(df_abundances_05, df_abundances_05$site_ID == "9"), color = my_palette[9], size = 1) +
-  # geom_line(data = subset(df_abundances_05, df_abundances_05$site_ID == "10"), color = my_palette[10], size = 1) +
   theme_classic() +
   theme(text = element_text(size = 15), plot.title = element_text(hjust = 0.5)) +
   xlab("Year") +
@@ -164,9 +144,6 @@ Figure1 <- ggarrange(plot_rate_0005, plot_rate_005, plot_rate_05,plot_real,
                      ncol = 2, nrow = 2)
 
 Figure1
-
-# ggsave("Sims V CAVU 11.28.23.png", 
-#        width = 8, height = 8, units = "in")
 
 # Regress mean vs SD of Cape Vulture data
 avc=data.frame(aggregate(cavu$count,list(site=cavu$site),mean,na.rm=t))
@@ -198,7 +175,6 @@ p1
 # simulation settings
 nsites = 100 ; nsurveys = 1 ; nyears = 20 ; mean.beta = 0; sd.lam = c(0,0)
 rate = 0.0005
-#my_dep = c(0.2, 0.5, 0.8) # three coefficients to illustrate
 my_dep = c(0.06920)
 nsim = 1000
 year <- (1:nyears) - 1
@@ -255,8 +231,6 @@ format_my_data <- function(N_matrix) {
 
 # format data for plotting
 df_abundances_dep02 <- format_my_data(N_matrix = saved_N_dependence[[1]])
-# df_abundances_dep05 <- format_my_data(N_matrix = saved_N_dependence[[2]])
-# df_abundances_dep08 <- format_my_data(N_matrix = saved_N_dependence[[3]])
 
 # make the plots
 my_palette <- viridis(n = 10)
@@ -354,8 +328,6 @@ df_all_results_var_dependence_gradient <- rbind(data.frame(var_dependence = my_d
 df_all_results_var_dependence_gradient$var_dependence <- as.factor(df_all_results_var_dependence_gradient$var_dependence)
 
 # save simulation output
-#write.csv2(df_all_results_var_dependence_gradient, file = "./output/df_all_results_var_dependence_gradient_nsim1000.csv", row.names = FALSE)
-
 mean(df_all_results_var_dependence_gradient$estim_pop_change<1)
 
 # plot the results
@@ -377,9 +349,3 @@ Figure2=plot_grid(p1,p2,p3,labels=c("(a)","(b)","(c)"),
                   align = 'hv')
 
 Figure2
-
-# ggsave("CAVU Slope 11.30.23.png", 
-#        width = 12, height = 4, units = "in")
-
-
-

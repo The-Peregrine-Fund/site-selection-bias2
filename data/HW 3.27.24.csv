@@ -1,0 +1,2542 @@
+year,hrs,count,site,species
+2023,1112.58,350,Hawk Mountain,Accipiter cooperii
+2022,1075.92,426,Hawk Mountain,Accipiter cooperii
+2021,1123.07,514,Hawk Mountain,Accipiter cooperii
+2020,1084.6,591,Hawk Mountain,Accipiter cooperii
+2019,1080.03,282,Hawk Mountain,Accipiter cooperii
+2018,1027.02,598,Hawk Mountain,Accipiter cooperii
+2017,1013.22,358,Hawk Mountain,Accipiter cooperii
+2016,1137.5,370,Hawk Mountain,Accipiter cooperii
+2015,1127.67,396,Hawk Mountain,Accipiter cooperii
+2014,1102.03,554,Hawk Mountain,Accipiter cooperii
+2013,1125.45,396,Hawk Mountain,Accipiter cooperii
+2012,1108.2,580,Hawk Mountain,Accipiter cooperii
+2011,1076.07,558,Hawk Mountain,Accipiter cooperii
+2010,1087.1,756,Hawk Mountain,Accipiter cooperii
+2009,1032.63,611,Hawk Mountain,Accipiter cooperii
+2008,1082.32,530,Hawk Mountain,Accipiter cooperii
+2007,1103.18,743,Hawk Mountain,Accipiter cooperii
+2006,1114.82,932,Hawk Mountain,Accipiter cooperii
+2005,1143.12,1121,Hawk Mountain,Accipiter cooperii
+2004,1079.95,536,Hawk Mountain,Accipiter cooperii
+2003,1052.72,683,Hawk Mountain,Accipiter cooperii
+2002,1039.05,599,Hawk Mountain,Accipiter cooperii
+2001,1136.82,902,Hawk Mountain,Accipiter cooperii
+2000,1125.43,751,Hawk Mountain,Accipiter cooperii
+2023,714.3,3203,Goshutes,Accipiter cooperii
+2022,674.87,2354,Goshutes,Accipiter cooperii
+2021,672.13,1569,Goshutes,Accipiter cooperii
+2019,662.6,1336,Goshutes,Accipiter cooperii
+2018,706.75,4077,Goshutes,Accipiter cooperii
+2017,697.75,1528,Goshutes,Accipiter cooperii
+2016,649.17,1971,Goshutes,Accipiter cooperii
+2015,616.25,4418,Goshutes,Accipiter cooperii
+2014,641.17,3986,Goshutes,Accipiter cooperii
+2013,563.83,1997,Goshutes,Accipiter cooperii
+2012,741.25,2130,Goshutes,Accipiter cooperii
+2011,682.03,2067,Goshutes,Accipiter cooperii
+2010,692.6,2599,Goshutes,Accipiter cooperii
+2009,733.58,1691,Goshutes,Accipiter cooperii
+2008,761.07,1957,Goshutes,Accipiter cooperii
+2007,747.97,3422,Goshutes,Accipiter cooperii
+2006,719.58,2541,Goshutes,Accipiter cooperii
+2005,695.3,2260,Goshutes,Accipiter cooperii
+2004,641.75,2736,Goshutes,Accipiter cooperii
+2003,688.25,2281,Goshutes,Accipiter cooperii
+2002,725.67,2369,Goshutes,Accipiter cooperii
+2001,787.33,5110,Goshutes,Accipiter cooperii
+2000,681.5,3022,Goshutes,Accipiter cooperii
+2023,900.62,6123,Cape May,Accipiter cooperii
+2022,896.25,7643,Cape May,Accipiter cooperii
+2021,898,2235,Cape May,Accipiter cooperii
+2020,873.27,3708,Cape May,Accipiter cooperii
+2019,905.67,3593,Cape May,Accipiter cooperii
+2018,914.43,5361,Cape May,Accipiter cooperii
+2017,900.32,1738,Cape May,Accipiter cooperii
+2016,933.32,3144,Cape May,Accipiter cooperii
+2015,884.55,4353,Cape May,Accipiter cooperii
+2014,906.67,3881,Cape May,Accipiter cooperii
+2013,866.58,3611,Cape May,Accipiter cooperii
+2012,1092,3630,Cape May,Accipiter cooperii
+2011,800.53,2927,Cape May,Accipiter cooperii
+2010,882.25,4106,Cape May,Accipiter cooperii
+2009,869.2,5738,Cape May,Accipiter cooperii
+2008,808.5,4452,Cape May,Accipiter cooperii
+2007,882.17,2712,Cape May,Accipiter cooperii
+2006,743.58,6910,Cape May,Accipiter cooperii
+2005,832.5,5829,Cape May,Accipiter cooperii
+2004,857.43,5046,Cape May,Accipiter cooperii
+2003,896.52,4248,Cape May,Accipiter cooperii
+2002,895.8,3503,Cape May,Accipiter cooperii
+2001,822.8,1874,Cape May,Accipiter cooperii
+2000,859.33,2613,Cape May,Accipiter cooperii
+2023,564,91,Detroit River,Accipiter cooperii
+2022,567.25,91,Detroit River,Accipiter cooperii
+2021,546,52,Detroit River,Accipiter cooperii
+2020,568,105,Detroit River,Accipiter cooperii
+2019,575.25,128,Detroit River,Accipiter cooperii
+2018,541.75,120,Detroit River,Accipiter cooperii
+2017,636.75,120,Detroit River,Accipiter cooperii
+2016,635.5,169,Detroit River,Accipiter cooperii
+2015,648,250,Detroit River,Accipiter cooperii
+2014,627.5,472,Detroit River,Accipiter cooperii
+2013,642.5,460,Detroit River,Accipiter cooperii
+2012,619,468,Detroit River,Accipiter cooperii
+2011,591.5,763,Detroit River,Accipiter cooperii
+2010,564.5,834,Detroit River,Accipiter cooperii
+2009,519.42,335,Detroit River,Accipiter cooperii
+2008,464.9,294,Detroit River,Accipiter cooperii
+2007,598.5,724,Detroit River,Accipiter cooperii
+2006,475.75,628,Detroit River,Accipiter cooperii
+2005,456.25,432,Detroit River,Accipiter cooperii
+2004,478.75,461,Detroit River,Accipiter cooperii
+2003,545.33,709,Detroit River,Accipiter cooperii
+2002,561.5,572,Detroit River,Accipiter cooperii
+2001,526,693,Detroit River,Accipiter cooperii
+2000,510.2,408,Detroit River,Accipiter cooperii
+2023,682.5,1197,Florida Keys,Accipiter cooperii
+2022,866.5,490,Florida Keys,Accipiter cooperii
+2021,904.25,260,Florida Keys,Accipiter cooperii
+2020,455.25,305,Florida Keys,Accipiter cooperii
+2019,409.25,136,Florida Keys,Accipiter cooperii
+2018,409.75,371,Florida Keys,Accipiter cooperii
+2017,25.75,15,Florida Keys,Accipiter cooperii
+2016,428,839,Florida Keys,Accipiter cooperii
+2015,298.25,406,Florida Keys,Accipiter cooperii
+2014,444.75,871,Florida Keys,Accipiter cooperii
+2013,362,548,Florida Keys,Accipiter cooperii
+2012,414.5,766,Florida Keys,Accipiter cooperii
+2011,420,830,Florida Keys,Accipiter cooperii
+2010,297.5,237,Florida Keys,Accipiter cooperii
+2008,348.75,604,Florida Keys,Accipiter cooperii
+2007,361,870,Florida Keys,Accipiter cooperii
+2006,385.25,416,Florida Keys,Accipiter cooperii
+2005,329.5,480,Florida Keys,Accipiter cooperii
+2004,403.17,1036,Florida Keys,Accipiter cooperii
+2003,462.5,348,Florida Keys,Accipiter cooperii
+2002,479.25,289,Florida Keys,Accipiter cooperii
+2001,459.5,335,Florida Keys,Accipiter cooperii
+2000,495,839,Florida Keys,Accipiter cooperii
+2023,963.97,66,Hawk Ridge,Accipiter cooperii
+2022,899.08,84,Hawk Ridge,Accipiter cooperii
+2021,904.67,81,Hawk Ridge,Accipiter cooperii
+2020,716.25,52,Hawk Ridge,Accipiter cooperii
+2019,859.42,53,Hawk Ridge,Accipiter cooperii
+2018,723.7,76,Hawk Ridge,Accipiter cooperii
+2017,721.18,179,Hawk Ridge,Accipiter cooperii
+2016,828,151,Hawk Ridge,Accipiter cooperii
+2015,804.33,105,Hawk Ridge,Accipiter cooperii
+2014,846.93,140,Hawk Ridge,Accipiter cooperii
+2013,830,120,Hawk Ridge,Accipiter cooperii
+2012,888.65,77,Hawk Ridge,Accipiter cooperii
+2011,961.4,133,Hawk Ridge,Accipiter cooperii
+2010,902.12,98,Hawk Ridge,Accipiter cooperii
+2009,908.27,88,Hawk Ridge,Accipiter cooperii
+2008,927.92,59,Hawk Ridge,Accipiter cooperii
+2007,784.1,75,Hawk Ridge,Accipiter cooperii
+2006,740,38,Hawk Ridge,Accipiter cooperii
+2005,756,141,Hawk Ridge,Accipiter cooperii
+2004,747.5,136,Hawk Ridge,Accipiter cooperii
+2003,798.5,117,Hawk Ridge,Accipiter cooperii
+2002,769.75,136,Hawk Ridge,Accipiter cooperii
+2001,774.5,168,Hawk Ridge,Accipiter cooperii
+2000,760.5,227,Hawk Ridge,Accipiter cooperii
+2023,797.42,2740,Corpus Christi,Accipiter cooperii
+2022,835.1,2068,Corpus Christi,Accipiter cooperii
+2021,849.83,1676,Corpus Christi,Accipiter cooperii
+2020,819.5,1234,Corpus Christi,Accipiter cooperii
+2019,852.75,891,Corpus Christi,Accipiter cooperii
+2018,831.53,1516,Corpus Christi,Accipiter cooperii
+2017,828.25,1358,Corpus Christi,Accipiter cooperii
+2016,634,824,Corpus Christi,Accipiter cooperii
+2015,597,1059,Corpus Christi,Accipiter cooperii
+2014,587,821,Corpus Christi,Accipiter cooperii
+2013,595.75,1017,Corpus Christi,Accipiter cooperii
+2012,736.08,1484,Corpus Christi,Accipiter cooperii
+2011,693.25,1379,Corpus Christi,Accipiter cooperii
+2010,689.25,1328,Corpus Christi,Accipiter cooperii
+2009,688,1078,Corpus Christi,Accipiter cooperii
+2008,830.42,1308,Corpus Christi,Accipiter cooperii
+2007,798.75,1222,Corpus Christi,Accipiter cooperii
+2006,704.5,1719,Corpus Christi,Accipiter cooperii
+2005,715.75,815,Corpus Christi,Accipiter cooperii
+2004,701,483,Corpus Christi,Accipiter cooperii
+2003,643.5,1083,Corpus Christi,Accipiter cooperii
+2002,676.5,645,Corpus Christi,Accipiter cooperii
+2001,723.5,473,Corpus Christi,Accipiter cooperii
+2000,728.58,555,Corpus Christi,Accipiter cooperii
+2022,410.75,891,Golden Gate,Accipiter cooperii
+2021,299.67,1407,Golden Gate,Accipiter cooperii
+2020,443.62,2629,Golden Gate,Accipiter cooperii
+2018,407.62,1914,Golden Gate,Accipiter cooperii
+2017,473.5,2198,Golden Gate,Accipiter cooperii
+2016,439.67,1997,Golden Gate,Accipiter cooperii
+2015,539.53,3106,Golden Gate,Accipiter cooperii
+2014,487.7,2161,Golden Gate,Accipiter cooperii
+2013,490.08,2369,Golden Gate,Accipiter cooperii
+2012,441.55,2695,Golden Gate,Accipiter cooperii
+2011,438.78,1805,Golden Gate,Accipiter cooperii
+2010,465.3,1956,Golden Gate,Accipiter cooperii
+2009,496.75,1738,Golden Gate,Accipiter cooperii
+2008,508.4,1956,Golden Gate,Accipiter cooperii
+2007,523.5,3717,Golden Gate,Accipiter cooperii
+2006,492.25,3367,Golden Gate,Accipiter cooperii
+2005,454.5,2427,Golden Gate,Accipiter cooperii
+2004,528.67,2452,Golden Gate,Accipiter cooperii
+2003,500.28,2022,Golden Gate,Accipiter cooperii
+2002,523.58,2765,Golden Gate,Accipiter cooperii
+2001,445.37,1818,Golden Gate,Accipiter cooperii
+2000,550.52,2004,Golden Gate,Accipiter cooperii
+2023,893.6,598,Veracruz,Accipiter cooperii
+2022,895.77,1236,Veracruz,Accipiter cooperii
+2019,883.55,1013,Veracruz,Accipiter cooperii
+2018,690.52,749,Veracruz,Accipiter cooperii
+2017,840.25,866,Veracruz,Accipiter cooperii
+2016,838.75,738,Veracruz,Accipiter cooperii
+2015,754.58,695,Veracruz,Accipiter cooperii
+2014,875.92,773,Veracruz,Accipiter cooperii
+2013,868.9,808,Veracruz,Accipiter cooperii
+2012,901.65,1667,Veracruz,Accipiter cooperii
+2011,895.75,1451,Veracruz,Accipiter cooperii
+2010,801.15,842,Veracruz,Accipiter cooperii
+2009,828.45,916,Veracruz,Accipiter cooperii
+2008,877.35,651,Veracruz,Accipiter cooperii
+2007,907.98,999,Veracruz,Accipiter cooperii
+2006,890.45,1158,Veracruz,Accipiter cooperii
+2005,873.75,1131,Veracruz,Accipiter cooperii
+2004,898.75,873,Veracruz,Accipiter cooperii
+2003,893.48,1002,Veracruz,Accipiter cooperii
+2002,877.42,1264,Veracruz,Accipiter cooperii
+2001,867.67,2455,Veracruz,Accipiter cooperii
+2000,862.17,1708,Veracruz,Accipiter cooperii
+2023,367,184,Bonney Butte,Accipiter cooperii
+2022,468.17,223,Bonney Butte,Accipiter cooperii
+2021,404.33,320,Bonney Butte,Accipiter cooperii
+2019,302.42,220,Bonney Butte,Accipiter cooperii
+2018,394.17,377,Bonney Butte,Accipiter cooperii
+2017,412.08,343,Bonney Butte,Accipiter cooperii
+2016,293.75,362,Bonney Butte,Accipiter cooperii
+2015,311.57,226,Bonney Butte,Accipiter cooperii
+2014,351.57,465,Bonney Butte,Accipiter cooperii
+2013,331.75,205,Bonney Butte,Accipiter cooperii
+2012,451.45,446,Bonney Butte,Accipiter cooperii
+2011,414.33,380,Bonney Butte,Accipiter cooperii
+2010,421.42,420,Bonney Butte,Accipiter cooperii
+2009,425.75,339,Bonney Butte,Accipiter cooperii
+2008,481.83,316,Bonney Butte,Accipiter cooperii
+2007,396,249,Bonney Butte,Accipiter cooperii
+2006,459.92,418,Bonney Butte,Accipiter cooperii
+2005,392.92,269,Bonney Butte,Accipiter cooperii
+2004,340.58,485,Bonney Butte,Accipiter cooperii
+2003,402.42,473,Bonney Butte,Accipiter cooperii
+2002,423.67,233,Bonney Butte,Accipiter cooperii
+2001,415.75,256,Bonney Butte,Accipiter cooperii
+2000,328.5,456,Bonney Butte,Accipiter cooperii
+2023,1112.58,3595,Hawk Mountain,Accipiter striatus
+2022,1075.92,3574,Hawk Mountain,Accipiter striatus
+2021,1123.07,4200,Hawk Mountain,Accipiter striatus
+2020,1084.6,3457,Hawk Mountain,Accipiter striatus
+2019,1080.03,2097,Hawk Mountain,Accipiter striatus
+2018,1027.02,5125,Hawk Mountain,Accipiter striatus
+2017,1013.22,2453,Hawk Mountain,Accipiter striatus
+2016,1137.5,2970,Hawk Mountain,Accipiter striatus
+2015,1127.67,3819,Hawk Mountain,Accipiter striatus
+2014,1102.03,4775,Hawk Mountain,Accipiter striatus
+2013,1125.45,3776,Hawk Mountain,Accipiter striatus
+2012,1108.2,5221,Hawk Mountain,Accipiter striatus
+2011,1076.07,4449,Hawk Mountain,Accipiter striatus
+2010,1087.1,6413,Hawk Mountain,Accipiter striatus
+2009,1032.63,4300,Hawk Mountain,Accipiter striatus
+2008,1082.32,3358,Hawk Mountain,Accipiter striatus
+2007,1103.18,5073,Hawk Mountain,Accipiter striatus
+2006,1114.82,5480,Hawk Mountain,Accipiter striatus
+2005,1143.12,4545,Hawk Mountain,Accipiter striatus
+2004,1079.95,2968,Hawk Mountain,Accipiter striatus
+2003,1052.72,3651,Hawk Mountain,Accipiter striatus
+2002,1039.05,3201,Hawk Mountain,Accipiter striatus
+2001,1136.82,4827,Hawk Mountain,Accipiter striatus
+2000,1125.43,4505,Hawk Mountain,Accipiter striatus
+2023,714.3,4642,Goshutes,Accipiter striatus
+2022,674.87,3347,Goshutes,Accipiter striatus
+2021,672.13,3410,Goshutes,Accipiter striatus
+2019,662.6,2827,Goshutes,Accipiter striatus
+2018,706.75,5682,Goshutes,Accipiter striatus
+2017,697.75,2519,Goshutes,Accipiter striatus
+2016,649.17,3249,Goshutes,Accipiter striatus
+2015,616.25,6769,Goshutes,Accipiter striatus
+2014,641.17,6141,Goshutes,Accipiter striatus
+2013,563.83,3271,Goshutes,Accipiter striatus
+2012,741.25,3527,Goshutes,Accipiter striatus
+2011,682.03,5171,Goshutes,Accipiter striatus
+2010,692.6,5063,Goshutes,Accipiter striatus
+2009,733.58,3251,Goshutes,Accipiter striatus
+2008,761.07,4967,Goshutes,Accipiter striatus
+2007,747.97,4635,Goshutes,Accipiter striatus
+2006,719.58,2745,Goshutes,Accipiter striatus
+2005,695.3,2973,Goshutes,Accipiter striatus
+2004,641.75,3073,Goshutes,Accipiter striatus
+2003,688.25,3460,Goshutes,Accipiter striatus
+2002,725.67,3009,Goshutes,Accipiter striatus
+2001,787.33,7428,Goshutes,Accipiter striatus
+2000,681.5,6071,Goshutes,Accipiter striatus
+2023,900.62,15248,Cape May,Accipiter striatus
+2022,896.25,15018,Cape May,Accipiter striatus
+2021,898,6742,Cape May,Accipiter striatus
+2020,873.27,10553,Cape May,Accipiter striatus
+2019,905.67,7356,Cape May,Accipiter striatus
+2018,914.43,15875,Cape May,Accipiter striatus
+2017,900.32,10834,Cape May,Accipiter striatus
+2016,933.32,14540,Cape May,Accipiter striatus
+2015,884.55,10485,Cape May,Accipiter striatus
+2014,906.67,14893,Cape May,Accipiter striatus
+2013,866.58,19826,Cape May,Accipiter striatus
+2012,1092,19911,Cape May,Accipiter striatus
+2011,800.53,15107,Cape May,Accipiter striatus
+2010,882.25,19963,Cape May,Accipiter striatus
+2009,869.2,14164,Cape May,Accipiter striatus
+2008,808.5,10985,Cape May,Accipiter striatus
+2007,882.17,13496,Cape May,Accipiter striatus
+2006,743.58,21454,Cape May,Accipiter striatus
+2005,832.5,15305,Cape May,Accipiter striatus
+2004,857.43,14005,Cape May,Accipiter striatus
+2003,896.52,20640,Cape May,Accipiter striatus
+2002,895.8,17165,Cape May,Accipiter striatus
+2001,822.8,12927,Cape May,Accipiter striatus
+2000,859.33,15662,Cape May,Accipiter striatus
+2023,564,7066,Detroit River,Accipiter striatus
+2022,567.25,5897,Detroit River,Accipiter striatus
+2021,546,6572,Detroit River,Accipiter striatus
+2020,568,5050,Detroit River,Accipiter striatus
+2019,575.25,4167,Detroit River,Accipiter striatus
+2018,541.75,5324,Detroit River,Accipiter striatus
+2017,636.75,4100,Detroit River,Accipiter striatus
+2016,635.5,4456,Detroit River,Accipiter striatus
+2015,648,5540,Detroit River,Accipiter striatus
+2014,627.5,4627,Detroit River,Accipiter striatus
+2013,642.5,3230,Detroit River,Accipiter striatus
+2012,619,3590,Detroit River,Accipiter striatus
+2011,591.5,5331,Detroit River,Accipiter striatus
+2010,564.5,6504,Detroit River,Accipiter striatus
+2009,519.42,3259,Detroit River,Accipiter striatus
+2008,464.9,3593,Detroit River,Accipiter striatus
+2007,598.5,9909,Detroit River,Accipiter striatus
+2006,475.75,7013,Detroit River,Accipiter striatus
+2005,456.25,5623,Detroit River,Accipiter striatus
+2004,478.75,5027,Detroit River,Accipiter striatus
+2003,545.33,10643,Detroit River,Accipiter striatus
+2002,561.5,7307,Detroit River,Accipiter striatus
+2001,526,14715,Detroit River,Accipiter striatus
+2000,510.2,7132,Detroit River,Accipiter striatus
+2023,682.5,2330,Florida Keys,Accipiter striatus
+2022,866.5,1867,Florida Keys,Accipiter striatus
+2021,904.25,1117,Florida Keys,Accipiter striatus
+2020,455.25,1690,Florida Keys,Accipiter striatus
+2019,409.25,1473,Florida Keys,Accipiter striatus
+2018,409.75,596,Florida Keys,Accipiter striatus
+2017,25.75,0,Florida Keys,Accipiter striatus
+2016,428,1085,Florida Keys,Accipiter striatus
+2015,298.25,3710,Florida Keys,Accipiter striatus
+2014,444.75,2053,Florida Keys,Accipiter striatus
+2013,362,1618,Florida Keys,Accipiter striatus
+2012,414.5,1942,Florida Keys,Accipiter striatus
+2011,420,3800,Florida Keys,Accipiter striatus
+2010,297.5,1344,Florida Keys,Accipiter striatus
+2008,348.75,4485,Florida Keys,Accipiter striatus
+2007,361,3392,Florida Keys,Accipiter striatus
+2006,385.25,2817,Florida Keys,Accipiter striatus
+2005,329.5,1001,Florida Keys,Accipiter striatus
+2004,403.17,2764,Florida Keys,Accipiter striatus
+2003,462.5,2195,Florida Keys,Accipiter striatus
+2002,479.25,1856,Florida Keys,Accipiter striatus
+2001,459.5,3697,Florida Keys,Accipiter striatus
+2000,495,4547,Florida Keys,Accipiter striatus
+2023,963.97,16471,Hawk Ridge,Accipiter striatus
+2022,899.08,14158,Hawk Ridge,Accipiter striatus
+2021,904.67,17534,Hawk Ridge,Accipiter striatus
+2020,716.25,13593,Hawk Ridge,Accipiter striatus
+2019,859.42,18947,Hawk Ridge,Accipiter striatus
+2018,723.7,11148,Hawk Ridge,Accipiter striatus
+2017,721.18,22163,Hawk Ridge,Accipiter striatus
+2016,828,22602,Hawk Ridge,Accipiter striatus
+2015,804.33,17813,Hawk Ridge,Accipiter striatus
+2014,846.93,15733,Hawk Ridge,Accipiter striatus
+2013,830,13270,Hawk Ridge,Accipiter striatus
+2012,888.65,12620,Hawk Ridge,Accipiter striatus
+2011,961.4,19475,Hawk Ridge,Accipiter striatus
+2010,902.12,11791,Hawk Ridge,Accipiter striatus
+2009,908.27,13598,Hawk Ridge,Accipiter striatus
+2008,927.92,12608,Hawk Ridge,Accipiter striatus
+2007,784.1,15253,Hawk Ridge,Accipiter striatus
+2006,740,8973,Hawk Ridge,Accipiter striatus
+2005,756,16500,Hawk Ridge,Accipiter striatus
+2004,747.5,16463,Hawk Ridge,Accipiter striatus
+2003,798.5,19547,Hawk Ridge,Accipiter striatus
+2002,769.75,17910,Hawk Ridge,Accipiter striatus
+2001,774.5,11791,Hawk Ridge,Accipiter striatus
+2000,760.5,14473,Hawk Ridge,Accipiter striatus
+2023,797.42,3558,Corpus Christi,Accipiter striatus
+2022,835.1,2628,Corpus Christi,Accipiter striatus
+2021,849.83,2189,Corpus Christi,Accipiter striatus
+2020,819.5,2742,Corpus Christi,Accipiter striatus
+2019,852.75,2424,Corpus Christi,Accipiter striatus
+2018,831.53,2513,Corpus Christi,Accipiter striatus
+2017,828.25,2681,Corpus Christi,Accipiter striatus
+2016,634,2159,Corpus Christi,Accipiter striatus
+2015,597,1870,Corpus Christi,Accipiter striatus
+2014,587,2101,Corpus Christi,Accipiter striatus
+2013,595.75,1622,Corpus Christi,Accipiter striatus
+2012,736.08,2466,Corpus Christi,Accipiter striatus
+2011,693.25,2169,Corpus Christi,Accipiter striatus
+2010,689.25,1389,Corpus Christi,Accipiter striatus
+2009,688,1621,Corpus Christi,Accipiter striatus
+2008,830.42,1927,Corpus Christi,Accipiter striatus
+2007,798.75,1725,Corpus Christi,Accipiter striatus
+2006,704.5,1643,Corpus Christi,Accipiter striatus
+2005,715.75,880,Corpus Christi,Accipiter striatus
+2004,701,892,Corpus Christi,Accipiter striatus
+2003,643.5,1193,Corpus Christi,Accipiter striatus
+2002,676.5,1869,Corpus Christi,Accipiter striatus
+2001,723.5,698,Corpus Christi,Accipiter striatus
+2000,728.58,929,Corpus Christi,Accipiter striatus
+2022,410.75,1905,Golden Gate,Accipiter striatus
+2021,299.67,2740,Golden Gate,Accipiter striatus
+2020,443.62,2025,Golden Gate,Accipiter striatus
+2018,407.62,3389,Golden Gate,Accipiter striatus
+2017,473.5,3107,Golden Gate,Accipiter striatus
+2016,439.67,4138,Golden Gate,Accipiter striatus
+2015,539.53,4652,Golden Gate,Accipiter striatus
+2014,487.7,3531,Golden Gate,Accipiter striatus
+2013,490.08,2423,Golden Gate,Accipiter striatus
+2012,441.55,3149,Golden Gate,Accipiter striatus
+2011,438.78,2622,Golden Gate,Accipiter striatus
+2010,465.3,2409,Golden Gate,Accipiter striatus
+2009,496.75,3332,Golden Gate,Accipiter striatus
+2008,508.4,4091,Golden Gate,Accipiter striatus
+2007,523.5,4636,Golden Gate,Accipiter striatus
+2006,492.25,5244,Golden Gate,Accipiter striatus
+2005,454.5,4407,Golden Gate,Accipiter striatus
+2004,528.67,3257,Golden Gate,Accipiter striatus
+2003,500.28,5171,Golden Gate,Accipiter striatus
+2002,523.58,5847,Golden Gate,Accipiter striatus
+2001,445.37,3368,Golden Gate,Accipiter striatus
+2000,550.52,2480,Golden Gate,Accipiter striatus
+2023,893.6,1255,Veracruz,Accipiter striatus
+2022,895.77,1198,Veracruz,Accipiter striatus
+2019,883.55,1049,Veracruz,Accipiter striatus
+2018,690.52,703,Veracruz,Accipiter striatus
+2017,840.25,1223,Veracruz,Accipiter striatus
+2016,838.75,983,Veracruz,Accipiter striatus
+2015,754.58,935,Veracruz,Accipiter striatus
+2014,875.92,1286,Veracruz,Accipiter striatus
+2013,868.9,1095,Veracruz,Accipiter striatus
+2012,901.65,1662,Veracruz,Accipiter striatus
+2011,895.75,2065,Veracruz,Accipiter striatus
+2010,801.15,1200,Veracruz,Accipiter striatus
+2009,828.45,1116,Veracruz,Accipiter striatus
+2008,877.35,1043,Veracruz,Accipiter striatus
+2007,907.98,1193,Veracruz,Accipiter striatus
+2006,890.45,990,Veracruz,Accipiter striatus
+2005,873.75,2892,Veracruz,Accipiter striatus
+2004,898.75,997,Veracruz,Accipiter striatus
+2003,893.48,1419,Veracruz,Accipiter striatus
+2002,877.42,2111,Veracruz,Accipiter striatus
+2001,867.67,2148,Veracruz,Accipiter striatus
+2000,862.17,1996,Veracruz,Accipiter striatus
+2023,367,854,Bonney Butte,Accipiter striatus
+2022,468.17,718,Bonney Butte,Accipiter striatus
+2021,404.33,1062,Bonney Butte,Accipiter striatus
+2019,302.42,670,Bonney Butte,Accipiter striatus
+2018,394.17,1089,Bonney Butte,Accipiter striatus
+2017,412.08,522,Bonney Butte,Accipiter striatus
+2016,293.75,1146,Bonney Butte,Accipiter striatus
+2015,311.57,964,Bonney Butte,Accipiter striatus
+2014,351.57,802,Bonney Butte,Accipiter striatus
+2013,331.75,1072,Bonney Butte,Accipiter striatus
+2012,451.45,1446,Bonney Butte,Accipiter striatus
+2011,414.33,1448,Bonney Butte,Accipiter striatus
+2010,421.42,1438,Bonney Butte,Accipiter striatus
+2009,425.75,1110,Bonney Butte,Accipiter striatus
+2008,481.83,1003,Bonney Butte,Accipiter striatus
+2007,396,921,Bonney Butte,Accipiter striatus
+2006,459.92,1015,Bonney Butte,Accipiter striatus
+2005,392.92,1067,Bonney Butte,Accipiter striatus
+2004,340.58,1789,Bonney Butte,Accipiter striatus
+2003,402.42,1578,Bonney Butte,Accipiter striatus
+2002,423.67,600,Bonney Butte,Accipiter striatus
+2001,415.75,958,Bonney Butte,Accipiter striatus
+2000,328.5,1105,Bonney Butte,Accipiter striatus
+2023,1112.58,99,Hawk Mountain,Aquila chrysaetos
+2022,1075.92,107,Hawk Mountain,Aquila chrysaetos
+2021,1123.07,145,Hawk Mountain,Aquila chrysaetos
+2020,1084.6,121,Hawk Mountain,Aquila chrysaetos
+2019,1080.03,88,Hawk Mountain,Aquila chrysaetos
+2018,1027.02,145,Hawk Mountain,Aquila chrysaetos
+2017,1013.22,104,Hawk Mountain,Aquila chrysaetos
+2016,1137.5,133,Hawk Mountain,Aquila chrysaetos
+2015,1127.67,119,Hawk Mountain,Aquila chrysaetos
+2014,1102.03,165,Hawk Mountain,Aquila chrysaetos
+2013,1125.45,162,Hawk Mountain,Aquila chrysaetos
+2012,1108.2,150,Hawk Mountain,Aquila chrysaetos
+2011,1076.07,133,Hawk Mountain,Aquila chrysaetos
+2010,1087.1,142,Hawk Mountain,Aquila chrysaetos
+2009,1032.63,75,Hawk Mountain,Aquila chrysaetos
+2008,1082.32,131,Hawk Mountain,Aquila chrysaetos
+2007,1103.18,109,Hawk Mountain,Aquila chrysaetos
+2006,1114.82,170,Hawk Mountain,Aquila chrysaetos
+2005,1143.12,121,Hawk Mountain,Aquila chrysaetos
+2004,1079.95,89,Hawk Mountain,Aquila chrysaetos
+2003,1052.72,161,Hawk Mountain,Aquila chrysaetos
+2002,1039.05,127,Hawk Mountain,Aquila chrysaetos
+2001,1136.82,89,Hawk Mountain,Aquila chrysaetos
+2000,1125.43,96,Hawk Mountain,Aquila chrysaetos
+2023,714.3,160,Goshutes,Aquila chrysaetos
+2022,674.87,154,Goshutes,Aquila chrysaetos
+2021,672.13,213,Goshutes,Aquila chrysaetos
+2020,,,Goshutes,Aquila chrysaetos
+2019,662.6,163,Goshutes,Aquila chrysaetos
+2018,706.75,257,Goshutes,Aquila chrysaetos
+2017,697.75,252,Goshutes,Aquila chrysaetos
+2016,649.17,142,Goshutes,Aquila chrysaetos
+2015,616.25,170,Goshutes,Aquila chrysaetos
+2014,641.17,230,Goshutes,Aquila chrysaetos
+2013,563.83,212,Goshutes,Aquila chrysaetos
+2012,741.25,213,Goshutes,Aquila chrysaetos
+2011,682.03,226,Goshutes,Aquila chrysaetos
+2010,692.6,236,Goshutes,Aquila chrysaetos
+2009,733.58,206,Goshutes,Aquila chrysaetos
+2008,761.07,226,Goshutes,Aquila chrysaetos
+2007,747.97,218,Goshutes,Aquila chrysaetos
+2006,719.58,152,Goshutes,Aquila chrysaetos
+2005,695.3,130,Goshutes,Aquila chrysaetos
+2004,641.75,160,Goshutes,Aquila chrysaetos
+2003,688.25,181,Goshutes,Aquila chrysaetos
+2002,725.67,330,Goshutes,Aquila chrysaetos
+2001,787.33,295,Goshutes,Aquila chrysaetos
+2000,681.5,305,Goshutes,Aquila chrysaetos
+2023,900.62,20,Cape May,Aquila chrysaetos
+2022,896.25,12,Cape May,Aquila chrysaetos
+2021,898,16,Cape May,Aquila chrysaetos
+2020,873.27,8,Cape May,Aquila chrysaetos
+2019,905.67,10,Cape May,Aquila chrysaetos
+2018,914.43,15,Cape May,Aquila chrysaetos
+2017,900.32,13,Cape May,Aquila chrysaetos
+2016,933.32,16,Cape May,Aquila chrysaetos
+2015,884.55,16,Cape May,Aquila chrysaetos
+2014,906.67,19,Cape May,Aquila chrysaetos
+2013,866.58,49,Cape May,Aquila chrysaetos
+2012,1092,19,Cape May,Aquila chrysaetos
+2011,800.53,6,Cape May,Aquila chrysaetos
+2010,882.25,27,Cape May,Aquila chrysaetos
+2009,869.2,4,Cape May,Aquila chrysaetos
+2008,808.5,25,Cape May,Aquila chrysaetos
+2007,882.17,12,Cape May,Aquila chrysaetos
+2006,743.58,22,Cape May,Aquila chrysaetos
+2005,832.5,12,Cape May,Aquila chrysaetos
+2004,857.43,11,Cape May,Aquila chrysaetos
+2003,896.52,9,Cape May,Aquila chrysaetos
+2002,895.8,11,Cape May,Aquila chrysaetos
+2001,822.8,10,Cape May,Aquila chrysaetos
+2000,859.33,10,Cape May,Aquila chrysaetos
+2023,564,138,Detroit River,Aquila chrysaetos
+2022,567.25,44,Detroit River,Aquila chrysaetos
+2021,546,65,Detroit River,Aquila chrysaetos
+2020,568,55,Detroit River,Aquila chrysaetos
+2019,575.25,62,Detroit River,Aquila chrysaetos
+2018,541.75,49,Detroit River,Aquila chrysaetos
+2017,636.75,96,Detroit River,Aquila chrysaetos
+2016,635.5,77,Detroit River,Aquila chrysaetos
+2015,648,100,Detroit River,Aquila chrysaetos
+2014,627.5,129,Detroit River,Aquila chrysaetos
+2013,642.5,69,Detroit River,Aquila chrysaetos
+2012,619,51,Detroit River,Aquila chrysaetos
+2011,591.5,167,Detroit River,Aquila chrysaetos
+2010,564.5,76,Detroit River,Aquila chrysaetos
+2009,519.42,117,Detroit River,Aquila chrysaetos
+2008,464.9,89,Detroit River,Aquila chrysaetos
+2007,598.5,124,Detroit River,Aquila chrysaetos
+2006,475.75,124,Detroit River,Aquila chrysaetos
+2005,456.25,45,Detroit River,Aquila chrysaetos
+2004,478.75,79,Detroit River,Aquila chrysaetos
+2003,545.33,60,Detroit River,Aquila chrysaetos
+2002,561.5,79,Detroit River,Aquila chrysaetos
+2001,526,120,Detroit River,Aquila chrysaetos
+2000,510.2,188,Detroit River,Aquila chrysaetos
+2023,963.97,259,Hawk Ridge,Aquila chrysaetos
+2022,899.08,183,Hawk Ridge,Aquila chrysaetos
+2021,904.67,111,Hawk Ridge,Aquila chrysaetos
+2020,716.25,208,Hawk Ridge,Aquila chrysaetos
+2019,859.42,203,Hawk Ridge,Aquila chrysaetos
+2018,723.7,245,Hawk Ridge,Aquila chrysaetos
+2017,721.18,202,Hawk Ridge,Aquila chrysaetos
+2016,828,164,Hawk Ridge,Aquila chrysaetos
+2015,804.33,209,Hawk Ridge,Aquila chrysaetos
+2014,846.93,175,Hawk Ridge,Aquila chrysaetos
+2013,830,178,Hawk Ridge,Aquila chrysaetos
+2012,888.65,211,Hawk Ridge,Aquila chrysaetos
+2011,961.4,164,Hawk Ridge,Aquila chrysaetos
+2010,902.12,201,Hawk Ridge,Aquila chrysaetos
+2009,908.27,223,Hawk Ridge,Aquila chrysaetos
+2008,927.92,169,Hawk Ridge,Aquila chrysaetos
+2007,784.1,118,Hawk Ridge,Aquila chrysaetos
+2006,740,122,Hawk Ridge,Aquila chrysaetos
+2005,756,183,Hawk Ridge,Aquila chrysaetos
+2004,747.5,153,Hawk Ridge,Aquila chrysaetos
+2003,798.5,158,Hawk Ridge,Aquila chrysaetos
+2002,769.75,172,Hawk Ridge,Aquila chrysaetos
+2001,774.5,173,Hawk Ridge,Aquila chrysaetos
+2000,760.5,115,Hawk Ridge,Aquila chrysaetos
+2023,797.42,0,Corpus Christi,Aquila chrysaetos
+2022,835.1,5,Corpus Christi,Aquila chrysaetos
+2021,849.83,2,Corpus Christi,Aquila chrysaetos
+2020,819.5,4,Corpus Christi,Aquila chrysaetos
+2019,852.75,3,Corpus Christi,Aquila chrysaetos
+2018,831.53,1,Corpus Christi,Aquila chrysaetos
+2017,828.25,0,Corpus Christi,Aquila chrysaetos
+2016,634,0,Corpus Christi,Aquila chrysaetos
+2015,597,2,Corpus Christi,Aquila chrysaetos
+2014,587,1,Corpus Christi,Aquila chrysaetos
+2013,595.75,5,Corpus Christi,Aquila chrysaetos
+2012,736.08,1,Corpus Christi,Aquila chrysaetos
+2011,693.25,1,Corpus Christi,Aquila chrysaetos
+2010,689.25,2,Corpus Christi,Aquila chrysaetos
+2009,688,3,Corpus Christi,Aquila chrysaetos
+2008,830.42,2,Corpus Christi,Aquila chrysaetos
+2007,798.75,1,Corpus Christi,Aquila chrysaetos
+2006,704.5,2,Corpus Christi,Aquila chrysaetos
+2005,715.75,2,Corpus Christi,Aquila chrysaetos
+2004,701,1,Corpus Christi,Aquila chrysaetos
+2003,643.5,2,Corpus Christi,Aquila chrysaetos
+2002,676.5,1,Corpus Christi,Aquila chrysaetos
+2001,723.5,1,Corpus Christi,Aquila chrysaetos
+2000,728.58,1,Corpus Christi,Aquila chrysaetos
+2023,,,Golden Gate,Aquila chrysaetos
+2022,410.75,8,Golden Gate,Aquila chrysaetos
+2021,299.67,6,Golden Gate,Aquila chrysaetos
+2020,443.62,13,Golden Gate,Aquila chrysaetos
+2019,,,Golden Gate,Aquila chrysaetos
+2018,407.62,14,Golden Gate,Aquila chrysaetos
+2017,473.5,16,Golden Gate,Aquila chrysaetos
+2016,439.67,13,Golden Gate,Aquila chrysaetos
+2015,539.53,18,Golden Gate,Aquila chrysaetos
+2014,487.7,32,Golden Gate,Aquila chrysaetos
+2013,490.08,26,Golden Gate,Aquila chrysaetos
+2012,441.55,13,Golden Gate,Aquila chrysaetos
+2011,438.78,9,Golden Gate,Aquila chrysaetos
+2010,465.3,13,Golden Gate,Aquila chrysaetos
+2009,496.75,11,Golden Gate,Aquila chrysaetos
+2008,508.4,18,Golden Gate,Aquila chrysaetos
+2007,523.5,38,Golden Gate,Aquila chrysaetos
+2006,492.25,24,Golden Gate,Aquila chrysaetos
+2005,454.5,13,Golden Gate,Aquila chrysaetos
+2004,528.67,21,Golden Gate,Aquila chrysaetos
+2003,500.28,14,Golden Gate,Aquila chrysaetos
+2002,523.58,21,Golden Gate,Aquila chrysaetos
+2001,445.37,22,Golden Gate,Aquila chrysaetos
+2000,550.52,20,Golden Gate,Aquila chrysaetos
+2023,893.6,0,Veracruz,Aquila chrysaetos
+2022,895.77,0,Veracruz,Aquila chrysaetos
+2021,,,Veracruz,Aquila chrysaetos
+2020,,,Veracruz,Aquila chrysaetos
+2019,883.55,0,Veracruz,Aquila chrysaetos
+2018,690.52,0,Veracruz,Aquila chrysaetos
+2017,840.25,0,Veracruz,Aquila chrysaetos
+2016,838.75,0,Veracruz,Aquila chrysaetos
+2015,754.58,0,Veracruz,Aquila chrysaetos
+2014,875.92,0,Veracruz,Aquila chrysaetos
+2013,868.9,0,Veracruz,Aquila chrysaetos
+2012,901.65,1,Veracruz,Aquila chrysaetos
+2011,895.75,2,Veracruz,Aquila chrysaetos
+2010,801.15,0,Veracruz,Aquila chrysaetos
+2009,828.45,0,Veracruz,Aquila chrysaetos
+2008,877.35,0,Veracruz,Aquila chrysaetos
+2007,907.98,0,Veracruz,Aquila chrysaetos
+2006,890.45,0,Veracruz,Aquila chrysaetos
+2005,873.75,6,Veracruz,Aquila chrysaetos
+2004,898.75,3,Veracruz,Aquila chrysaetos
+2003,893.48,0,Veracruz,Aquila chrysaetos
+2002,877.42,3,Veracruz,Aquila chrysaetos
+2001,867.67,0,Veracruz,Aquila chrysaetos
+2000,862.17,5,Veracruz,Aquila chrysaetos
+2023,367,23,Bonney Butte,Aquila chrysaetos
+2022,468.17,41,Bonney Butte,Aquila chrysaetos
+2021,404.33,69,Bonney Butte,Aquila chrysaetos
+2020,,,Bonney Butte,Aquila chrysaetos
+2019,302.42,34,Bonney Butte,Aquila chrysaetos
+2018,394.17,59,Bonney Butte,Aquila chrysaetos
+2017,412.08,23,Bonney Butte,Aquila chrysaetos
+2016,293.75,65,Bonney Butte,Aquila chrysaetos
+2015,311.57,56,Bonney Butte,Aquila chrysaetos
+2014,351.57,59,Bonney Butte,Aquila chrysaetos
+2013,331.75,52,Bonney Butte,Aquila chrysaetos
+2012,451.45,76,Bonney Butte,Aquila chrysaetos
+2011,414.33,110,Bonney Butte,Aquila chrysaetos
+2010,421.42,80,Bonney Butte,Aquila chrysaetos
+2009,425.75,63,Bonney Butte,Aquila chrysaetos
+2008,481.83,52,Bonney Butte,Aquila chrysaetos
+2007,396,52,Bonney Butte,Aquila chrysaetos
+2006,459.92,56,Bonney Butte,Aquila chrysaetos
+2005,392.92,72,Bonney Butte,Aquila chrysaetos
+2004,340.58,93,Bonney Butte,Aquila chrysaetos
+2003,402.42,108,Bonney Butte,Aquila chrysaetos
+2002,423.67,56,Bonney Butte,Aquila chrysaetos
+2001,415.75,75,Bonney Butte,Aquila chrysaetos
+2000,328.5,132,Bonney Butte,Aquila chrysaetos
+2023,1112.58,985,Hawk Mountain,Buteo jamaicensis
+2022,1075.92,1296,Hawk Mountain,Buteo jamaicensis
+2021,1123.07,1157,Hawk Mountain,Buteo jamaicensis
+2020,1084.6,1612,Hawk Mountain,Buteo jamaicensis
+2019,1080.03,1404,Hawk Mountain,Buteo jamaicensis
+2018,1027.02,1697,Hawk Mountain,Buteo jamaicensis
+2017,1013.22,1122,Hawk Mountain,Buteo jamaicensis
+2016,1137.5,2190,Hawk Mountain,Buteo jamaicensis
+2015,1127.67,1372,Hawk Mountain,Buteo jamaicensis
+2014,1102.03,2266,Hawk Mountain,Buteo jamaicensis
+2013,1125.45,2036,Hawk Mountain,Buteo jamaicensis
+2012,1108.2,2635,Hawk Mountain,Buteo jamaicensis
+2011,1076.07,1705,Hawk Mountain,Buteo jamaicensis
+2010,1087.1,3176,Hawk Mountain,Buteo jamaicensis
+2009,1032.63,1729,Hawk Mountain,Buteo jamaicensis
+2008,1082.32,1800,Hawk Mountain,Buteo jamaicensis
+2007,1103.18,2356,Hawk Mountain,Buteo jamaicensis
+2006,1114.82,3952,Hawk Mountain,Buteo jamaicensis
+2005,1143.12,4552,Hawk Mountain,Buteo jamaicensis
+2004,1079.95,2855,Hawk Mountain,Buteo jamaicensis
+2003,1052.72,3402,Hawk Mountain,Buteo jamaicensis
+2002,1039.05,3533,Hawk Mountain,Buteo jamaicensis
+2001,1136.82,3714,Hawk Mountain,Buteo jamaicensis
+2000,1125.43,2929,Hawk Mountain,Buteo jamaicensis
+2023,714.3,4517,Goshutes,Buteo jamaicensis
+2022,674.87,2685,Goshutes,Buteo jamaicensis
+2021,672.13,2769,Goshutes,Buteo jamaicensis
+2020,,,Goshutes,Buteo jamaicensis
+2019,662.6,1830,Goshutes,Buteo jamaicensis
+2018,706.75,4851,Goshutes,Buteo jamaicensis
+2017,697.75,3884,Goshutes,Buteo jamaicensis
+2016,649.17,3327,Goshutes,Buteo jamaicensis
+2015,616.25,6988,Goshutes,Buteo jamaicensis
+2014,641.17,5095,Goshutes,Buteo jamaicensis
+2013,563.83,3589,Goshutes,Buteo jamaicensis
+2012,741.25,3928,Goshutes,Buteo jamaicensis
+2011,682.03,3237,Goshutes,Buteo jamaicensis
+2010,692.6,4427,Goshutes,Buteo jamaicensis
+2009,733.58,2913,Goshutes,Buteo jamaicensis
+2008,761.07,2439,Goshutes,Buteo jamaicensis
+2007,747.97,3511,Goshutes,Buteo jamaicensis
+2006,719.58,3492,Goshutes,Buteo jamaicensis
+2005,695.3,3678,Goshutes,Buteo jamaicensis
+2004,641.75,3589,Goshutes,Buteo jamaicensis
+2003,688.25,3903,Goshutes,Buteo jamaicensis
+2002,725.67,3008,Goshutes,Buteo jamaicensis
+2001,787.33,3926,Goshutes,Buteo jamaicensis
+2000,681.5,3446,Goshutes,Buteo jamaicensis
+2023,900.62,1300,Cape May,Buteo jamaicensis
+2022,896.25,1843,Cape May,Buteo jamaicensis
+2021,898,771,Cape May,Buteo jamaicensis
+2020,873.27,1038,Cape May,Buteo jamaicensis
+2019,905.67,748,Cape May,Buteo jamaicensis
+2018,914.43,1500,Cape May,Buteo jamaicensis
+2017,900.32,730,Cape May,Buteo jamaicensis
+2016,933.32,1730,Cape May,Buteo jamaicensis
+2015,884.55,1217,Cape May,Buteo jamaicensis
+2014,906.67,1487,Cape May,Buteo jamaicensis
+2013,866.58,2338,Cape May,Buteo jamaicensis
+2012,1092,2361,Cape May,Buteo jamaicensis
+2011,800.53,554,Cape May,Buteo jamaicensis
+2010,882.25,1807,Cape May,Buteo jamaicensis
+2009,869.2,1940,Cape May,Buteo jamaicensis
+2008,808.5,739,Cape May,Buteo jamaicensis
+2007,882.17,1362,Cape May,Buteo jamaicensis
+2006,743.58,1987,Cape May,Buteo jamaicensis
+2005,832.5,2327,Cape May,Buteo jamaicensis
+2004,857.43,1938,Cape May,Buteo jamaicensis
+2003,896.52,1258,Cape May,Buteo jamaicensis
+2002,895.8,921,Cape May,Buteo jamaicensis
+2001,822.8,1049,Cape May,Buteo jamaicensis
+2000,859.33,1162,Cape May,Buteo jamaicensis
+2023,564,3618,Detroit River,Buteo jamaicensis
+2022,567.25,4299,Detroit River,Buteo jamaicensis
+2021,546,3643,Detroit River,Buteo jamaicensis
+2020,568,4241,Detroit River,Buteo jamaicensis
+2019,575.25,4983,Detroit River,Buteo jamaicensis
+2018,541.75,3041,Detroit River,Buteo jamaicensis
+2017,636.75,2484,Detroit River,Buteo jamaicensis
+2016,635.5,2917,Detroit River,Buteo jamaicensis
+2015,648,4830,Detroit River,Buteo jamaicensis
+2014,627.5,4616,Detroit River,Buteo jamaicensis
+2013,642.5,3473,Detroit River,Buteo jamaicensis
+2012,619,2986,Detroit River,Buteo jamaicensis
+2011,591.5,4100,Detroit River,Buteo jamaicensis
+2010,564.5,3207,Detroit River,Buteo jamaicensis
+2009,519.42,2474,Detroit River,Buteo jamaicensis
+2008,464.9,2507,Detroit River,Buteo jamaicensis
+2007,598.5,9406,Detroit River,Buteo jamaicensis
+2006,475.75,6025,Detroit River,Buteo jamaicensis
+2005,456.25,2619,Detroit River,Buteo jamaicensis
+2004,478.75,6155,Detroit River,Buteo jamaicensis
+2003,545.33,5789,Detroit River,Buteo jamaicensis
+2002,561.5,6565,Detroit River,Buteo jamaicensis
+2001,526,8153,Detroit River,Buteo jamaicensis
+2000,510.2,5754,Detroit River,Buteo jamaicensis
+2023,682.5,1,Florida Keys,Buteo jamaicensis
+2022,866.5,3,Florida Keys,Buteo jamaicensis
+2021,904.25,3,Florida Keys,Buteo jamaicensis
+2020,455.25,0,Florida Keys,Buteo jamaicensis
+2019,409.25,0,Florida Keys,Buteo jamaicensis
+2018,409.75,1,Florida Keys,Buteo jamaicensis
+2017,25.75,0,Florida Keys,Buteo jamaicensis
+2016,428,5,Florida Keys,Buteo jamaicensis
+2015,298.25,0,Florida Keys,Buteo jamaicensis
+2014,444.75,0,Florida Keys,Buteo jamaicensis
+2013,362,0,Florida Keys,Buteo jamaicensis
+2012,414.5,3,Florida Keys,Buteo jamaicensis
+2011,420,3,Florida Keys,Buteo jamaicensis
+2010,297.5,0,Florida Keys,Buteo jamaicensis
+2009,,,Florida Keys,Buteo jamaicensis
+2008,348.75,1,Florida Keys,Buteo jamaicensis
+2007,361,1,Florida Keys,Buteo jamaicensis
+2006,385.25,1,Florida Keys,Buteo jamaicensis
+2005,329.5,0,Florida Keys,Buteo jamaicensis
+2004,403.17,0,Florida Keys,Buteo jamaicensis
+2003,462.5,1,Florida Keys,Buteo jamaicensis
+2002,479.25,2,Florida Keys,Buteo jamaicensis
+2001,459.5,5,Florida Keys,Buteo jamaicensis
+2000,495,0,Florida Keys,Buteo jamaicensis
+2023,963.97,5005,Hawk Ridge,Buteo jamaicensis
+2022,899.08,4392,Hawk Ridge,Buteo jamaicensis
+2021,904.67,3944,Hawk Ridge,Buteo jamaicensis
+2020,716.25,4720,Hawk Ridge,Buteo jamaicensis
+2019,859.42,6734,Hawk Ridge,Buteo jamaicensis
+2018,723.7,6436,Hawk Ridge,Buteo jamaicensis
+2017,721.18,6774,Hawk Ridge,Buteo jamaicensis
+2016,828,8867,Hawk Ridge,Buteo jamaicensis
+2015,804.33,7780,Hawk Ridge,Buteo jamaicensis
+2014,846.93,6385,Hawk Ridge,Buteo jamaicensis
+2013,830,6149,Hawk Ridge,Buteo jamaicensis
+2012,888.65,6467,Hawk Ridge,Buteo jamaicensis
+2011,961.4,7318,Hawk Ridge,Buteo jamaicensis
+2010,902.12,5039,Hawk Ridge,Buteo jamaicensis
+2009,908.27,6308,Hawk Ridge,Buteo jamaicensis
+2008,927.92,6044,Hawk Ridge,Buteo jamaicensis
+2007,784.1,5828,Hawk Ridge,Buteo jamaicensis
+2006,740,11584,Hawk Ridge,Buteo jamaicensis
+2005,756,6514,Hawk Ridge,Buteo jamaicensis
+2004,747.5,6477,Hawk Ridge,Buteo jamaicensis
+2003,798.5,12663,Hawk Ridge,Buteo jamaicensis
+2002,769.75,10960,Hawk Ridge,Buteo jamaicensis
+2001,774.5,9008,Hawk Ridge,Buteo jamaicensis
+2000,760.5,4842,Hawk Ridge,Buteo jamaicensis
+2023,797.42,239,Corpus Christi,Buteo jamaicensis
+2022,835.1,285,Corpus Christi,Buteo jamaicensis
+2021,849.83,251,Corpus Christi,Buteo jamaicensis
+2020,819.5,192,Corpus Christi,Buteo jamaicensis
+2019,852.75,258,Corpus Christi,Buteo jamaicensis
+2018,831.53,376,Corpus Christi,Buteo jamaicensis
+2017,828.25,139,Corpus Christi,Buteo jamaicensis
+2016,634,44,Corpus Christi,Buteo jamaicensis
+2015,597,67,Corpus Christi,Buteo jamaicensis
+2014,587,85,Corpus Christi,Buteo jamaicensis
+2013,595.75,61,Corpus Christi,Buteo jamaicensis
+2012,736.08,148,Corpus Christi,Buteo jamaicensis
+2011,693.25,143,Corpus Christi,Buteo jamaicensis
+2010,689.25,163,Corpus Christi,Buteo jamaicensis
+2009,688,80,Corpus Christi,Buteo jamaicensis
+2008,830.42,126,Corpus Christi,Buteo jamaicensis
+2007,798.75,122,Corpus Christi,Buteo jamaicensis
+2006,704.5,363,Corpus Christi,Buteo jamaicensis
+2005,715.75,103,Corpus Christi,Buteo jamaicensis
+2004,701,180,Corpus Christi,Buteo jamaicensis
+2003,643.5,192,Corpus Christi,Buteo jamaicensis
+2002,676.5,182,Corpus Christi,Buteo jamaicensis
+2001,723.5,96,Corpus Christi,Buteo jamaicensis
+2000,728.58,237,Corpus Christi,Buteo jamaicensis
+2023,,,Golden Gate,Buteo jamaicensis
+2022,410.75,6195,Golden Gate,Buteo jamaicensis
+2021,299.67,6830,Golden Gate,Buteo jamaicensis
+2020,443.62,8267,Golden Gate,Buteo jamaicensis
+2019,,,Golden Gate,Buteo jamaicensis
+2018,407.62,9231,Golden Gate,Buteo jamaicensis
+2017,473.5,9132,Golden Gate,Buteo jamaicensis
+2016,439.67,5662,Golden Gate,Buteo jamaicensis
+2015,539.53,10017,Golden Gate,Buteo jamaicensis
+2014,487.7,7425,Golden Gate,Buteo jamaicensis
+2013,490.08,9083,Golden Gate,Buteo jamaicensis
+2012,441.55,8601,Golden Gate,Buteo jamaicensis
+2011,438.78,7530,Golden Gate,Buteo jamaicensis
+2010,465.3,6261,Golden Gate,Buteo jamaicensis
+2009,496.75,8297,Golden Gate,Buteo jamaicensis
+2008,508.4,6862,Golden Gate,Buteo jamaicensis
+2007,523.5,11869,Golden Gate,Buteo jamaicensis
+2006,492.25,11390,Golden Gate,Buteo jamaicensis
+2005,454.5,7427,Golden Gate,Buteo jamaicensis
+2004,528.67,13256,Golden Gate,Buteo jamaicensis
+2003,500.28,7096,Golden Gate,Buteo jamaicensis
+2002,523.58,12413,Golden Gate,Buteo jamaicensis
+2001,445.37,8480,Golden Gate,Buteo jamaicensis
+2000,550.52,7877,Golden Gate,Buteo jamaicensis
+2023,893.6,21,Veracruz,Buteo jamaicensis
+2022,895.77,31,Veracruz,Buteo jamaicensis
+2021,,,Veracruz,Buteo jamaicensis
+2020,,,Veracruz,Buteo jamaicensis
+2019,883.55,63,Veracruz,Buteo jamaicensis
+2018,690.52,67,Veracruz,Buteo jamaicensis
+2017,840.25,134,Veracruz,Buteo jamaicensis
+2016,838.75,21,Veracruz,Buteo jamaicensis
+2015,754.58,31,Veracruz,Buteo jamaicensis
+2014,875.92,35,Veracruz,Buteo jamaicensis
+2013,868.9,49,Veracruz,Buteo jamaicensis
+2012,901.65,133,Veracruz,Buteo jamaicensis
+2011,895.75,141,Veracruz,Buteo jamaicensis
+2010,801.15,94,Veracruz,Buteo jamaicensis
+2009,828.45,75,Veracruz,Buteo jamaicensis
+2008,877.35,56,Veracruz,Buteo jamaicensis
+2007,907.98,130,Veracruz,Buteo jamaicensis
+2006,890.45,172,Veracruz,Buteo jamaicensis
+2005,873.75,68,Veracruz,Buteo jamaicensis
+2004,898.75,63,Veracruz,Buteo jamaicensis
+2003,893.48,73,Veracruz,Buteo jamaicensis
+2002,877.42,73,Veracruz,Buteo jamaicensis
+2001,867.67,90,Veracruz,Buteo jamaicensis
+2000,862.17,97,Veracruz,Buteo jamaicensis
+2023,367,273,Bonney Butte,Buteo jamaicensis
+2022,468.17,275,Bonney Butte,Buteo jamaicensis
+2021,404.33,626,Bonney Butte,Buteo jamaicensis
+2020,,,Bonney Butte,Buteo jamaicensis
+2019,302.42,268,Bonney Butte,Buteo jamaicensis
+2018,394.17,682,Bonney Butte,Buteo jamaicensis
+2017,412.08,353,Bonney Butte,Buteo jamaicensis
+2016,293.75,344,Bonney Butte,Buteo jamaicensis
+2015,311.57,614,Bonney Butte,Buteo jamaicensis
+2014,351.57,415,Bonney Butte,Buteo jamaicensis
+2013,331.75,444,Bonney Butte,Buteo jamaicensis
+2012,451.45,605,Bonney Butte,Buteo jamaicensis
+2011,414.33,775,Bonney Butte,Buteo jamaicensis
+2010,421.42,588,Bonney Butte,Buteo jamaicensis
+2009,425.75,360,Bonney Butte,Buteo jamaicensis
+2008,481.83,359,Bonney Butte,Buteo jamaicensis
+2007,396,388,Bonney Butte,Buteo jamaicensis
+2006,459.92,531,Bonney Butte,Buteo jamaicensis
+2005,392.92,562,Bonney Butte,Buteo jamaicensis
+2004,340.58,723,Bonney Butte,Buteo jamaicensis
+2003,402.42,744,Bonney Butte,Buteo jamaicensis
+2002,423.67,425,Bonney Butte,Buteo jamaicensis
+2001,415.75,513,Bonney Butte,Buteo jamaicensis
+2000,328.5,680,Bonney Butte,Buteo jamaicensis
+2023,1112.58,112,Hawk Mountain,Buteo lineatus
+2022,1075.92,144,Hawk Mountain,Buteo lineatus
+2021,1123.07,145,Hawk Mountain,Buteo lineatus
+2020,1084.6,216,Hawk Mountain,Buteo lineatus
+2019,1080.03,137,Hawk Mountain,Buteo lineatus
+2018,1027.02,207,Hawk Mountain,Buteo lineatus
+2017,1013.22,162,Hawk Mountain,Buteo lineatus
+2016,1137.5,149,Hawk Mountain,Buteo lineatus
+2015,1127.67,115,Hawk Mountain,Buteo lineatus
+2014,1102.03,197,Hawk Mountain,Buteo lineatus
+2013,1125.45,167,Hawk Mountain,Buteo lineatus
+2012,1108.2,192,Hawk Mountain,Buteo lineatus
+2011,1076.07,117,Hawk Mountain,Buteo lineatus
+2010,1087.1,170,Hawk Mountain,Buteo lineatus
+2009,1032.63,141,Hawk Mountain,Buteo lineatus
+2008,1082.32,137,Hawk Mountain,Buteo lineatus
+2007,1103.18,219,Hawk Mountain,Buteo lineatus
+2006,1114.82,256,Hawk Mountain,Buteo lineatus
+2005,1143.12,346,Hawk Mountain,Buteo lineatus
+2004,1079.95,212,Hawk Mountain,Buteo lineatus
+2003,1052.72,242,Hawk Mountain,Buteo lineatus
+2002,1039.05,241,Hawk Mountain,Buteo lineatus
+2001,1136.82,275,Hawk Mountain,Buteo lineatus
+2000,1125.43,203,Hawk Mountain,Buteo lineatus
+2023,900.62,432,Cape May,Buteo lineatus
+2022,896.25,850,Cape May,Buteo lineatus
+2021,898,415,Cape May,Buteo lineatus
+2020,873.27,580,Cape May,Buteo lineatus
+2019,905.67,503,Cape May,Buteo lineatus
+2018,914.43,647,Cape May,Buteo lineatus
+2017,900.32,479,Cape May,Buteo lineatus
+2016,933.32,732,Cape May,Buteo lineatus
+2015,884.55,367,Cape May,Buteo lineatus
+2014,906.67,692,Cape May,Buteo lineatus
+2013,866.58,803,Cape May,Buteo lineatus
+2012,1092,850,Cape May,Buteo lineatus
+2011,800.53,264,Cape May,Buteo lineatus
+2010,882.25,443,Cape May,Buteo lineatus
+2009,869.2,545,Cape May,Buteo lineatus
+2008,808.5,227,Cape May,Buteo lineatus
+2007,882.17,351,Cape May,Buteo lineatus
+2006,743.58,476,Cape May,Buteo lineatus
+2005,832.5,699,Cape May,Buteo lineatus
+2004,857.43,573,Cape May,Buteo lineatus
+2003,896.52,723,Cape May,Buteo lineatus
+2002,895.8,483,Cape May,Buteo lineatus
+2001,822.8,343,Cape May,Buteo lineatus
+2000,859.33,232,Cape May,Buteo lineatus
+2023,564,525,Detroit River,Buteo lineatus
+2022,567.25,479,Detroit River,Buteo lineatus
+2021,546,502,Detroit River,Buteo lineatus
+2020,568,825,Detroit River,Buteo lineatus
+2019,575.25,779,Detroit River,Buteo lineatus
+2018,541.75,568,Detroit River,Buteo lineatus
+2017,636.75,354,Detroit River,Buteo lineatus
+2016,635.5,448,Detroit River,Buteo lineatus
+2015,648,763,Detroit River,Buteo lineatus
+2014,627.5,804,Detroit River,Buteo lineatus
+2013,642.5,532,Detroit River,Buteo lineatus
+2012,619,450,Detroit River,Buteo lineatus
+2011,591.5,487,Detroit River,Buteo lineatus
+2010,564.5,488,Detroit River,Buteo lineatus
+2009,519.42,615,Detroit River,Buteo lineatus
+2008,464.9,185,Detroit River,Buteo lineatus
+2007,598.5,1026,Detroit River,Buteo lineatus
+2006,475.75,1019,Detroit River,Buteo lineatus
+2005,456.25,299,Detroit River,Buteo lineatus
+2004,478.75,869,Detroit River,Buteo lineatus
+2003,545.33,533,Detroit River,Buteo lineatus
+2002,561.5,962,Detroit River,Buteo lineatus
+2001,526,858,Detroit River,Buteo lineatus
+2000,510.2,875,Detroit River,Buteo lineatus
+2023,682.5,97,Florida Keys,Buteo lineatus
+2022,866.5,32,Florida Keys,Buteo lineatus
+2021,904.25,26,Florida Keys,Buteo lineatus
+2020,455.25,6,Florida Keys,Buteo lineatus
+2019,409.25,15,Florida Keys,Buteo lineatus
+2018,409.75,8,Florida Keys,Buteo lineatus
+2017,25.75,0,Florida Keys,Buteo lineatus
+2016,428,52,Florida Keys,Buteo lineatus
+2015,298.25,9,Florida Keys,Buteo lineatus
+2014,444.75,30,Florida Keys,Buteo lineatus
+2013,362,9,Florida Keys,Buteo lineatus
+2012,414.5,23,Florida Keys,Buteo lineatus
+2011,420,72,Florida Keys,Buteo lineatus
+2010,297.5,24,Florida Keys,Buteo lineatus
+2008,348.75,13,Florida Keys,Buteo lineatus
+2007,361,26,Florida Keys,Buteo lineatus
+2006,385.25,29,Florida Keys,Buteo lineatus
+2005,329.5,0,Florida Keys,Buteo lineatus
+2004,403.17,0,Florida Keys,Buteo lineatus
+2003,462.5,5,Florida Keys,Buteo lineatus
+2002,479.25,1,Florida Keys,Buteo lineatus
+2001,459.5,7,Florida Keys,Buteo lineatus
+2000,495,34,Florida Keys,Buteo lineatus
+2023,963.97,2,Hawk Ridge,Buteo lineatus
+2022,899.08,3,Hawk Ridge,Buteo lineatus
+2021,904.67,2,Hawk Ridge,Buteo lineatus
+2020,716.25,2,Hawk Ridge,Buteo lineatus
+2019,859.42,0,Hawk Ridge,Buteo lineatus
+2018,723.7,2,Hawk Ridge,Buteo lineatus
+2017,721.18,0,Hawk Ridge,Buteo lineatus
+2016,828,1,Hawk Ridge,Buteo lineatus
+2015,804.33,1,Hawk Ridge,Buteo lineatus
+2014,846.93,2,Hawk Ridge,Buteo lineatus
+2013,830,0,Hawk Ridge,Buteo lineatus
+2012,888.65,5,Hawk Ridge,Buteo lineatus
+2011,961.4,1,Hawk Ridge,Buteo lineatus
+2010,902.12,2,Hawk Ridge,Buteo lineatus
+2009,908.27,0,Hawk Ridge,Buteo lineatus
+2008,927.92,2,Hawk Ridge,Buteo lineatus
+2007,784.1,0,Hawk Ridge,Buteo lineatus
+2006,740,3,Hawk Ridge,Buteo lineatus
+2005,756,1,Hawk Ridge,Buteo lineatus
+2004,747.5,3,Hawk Ridge,Buteo lineatus
+2003,798.5,4,Hawk Ridge,Buteo lineatus
+2002,769.75,6,Hawk Ridge,Buteo lineatus
+2001,774.5,4,Hawk Ridge,Buteo lineatus
+2000,760.5,1,Hawk Ridge,Buteo lineatus
+2023,797.42,24,Corpus Christi,Buteo lineatus
+2022,835.1,37,Corpus Christi,Buteo lineatus
+2021,849.83,20,Corpus Christi,Buteo lineatus
+2020,819.5,43,Corpus Christi,Buteo lineatus
+2019,852.75,39,Corpus Christi,Buteo lineatus
+2018,831.53,25,Corpus Christi,Buteo lineatus
+2017,828.25,15,Corpus Christi,Buteo lineatus
+2016,634,15,Corpus Christi,Buteo lineatus
+2015,597,23,Corpus Christi,Buteo lineatus
+2014,587,15,Corpus Christi,Buteo lineatus
+2013,595.75,41,Corpus Christi,Buteo lineatus
+2012,736.08,62,Corpus Christi,Buteo lineatus
+2011,693.25,63,Corpus Christi,Buteo lineatus
+2010,689.25,28,Corpus Christi,Buteo lineatus
+2009,688,17,Corpus Christi,Buteo lineatus
+2008,830.42,42,Corpus Christi,Buteo lineatus
+2007,798.75,15,Corpus Christi,Buteo lineatus
+2006,704.5,101,Corpus Christi,Buteo lineatus
+2005,715.75,37,Corpus Christi,Buteo lineatus
+2004,701,24,Corpus Christi,Buteo lineatus
+2003,643.5,26,Corpus Christi,Buteo lineatus
+2002,676.5,92,Corpus Christi,Buteo lineatus
+2001,723.5,45,Corpus Christi,Buteo lineatus
+2000,728.58,81,Corpus Christi,Buteo lineatus
+2022,410.75,189,Golden Gate,Buteo lineatus
+2021,299.67,330,Golden Gate,Buteo lineatus
+2020,443.62,280,Golden Gate,Buteo lineatus
+2018,407.62,362,Golden Gate,Buteo lineatus
+2017,473.5,220,Golden Gate,Buteo lineatus
+2016,439.67,265,Golden Gate,Buteo lineatus
+2015,539.53,574,Golden Gate,Buteo lineatus
+2014,487.7,578,Golden Gate,Buteo lineatus
+2013,490.08,739,Golden Gate,Buteo lineatus
+2012,441.55,604,Golden Gate,Buteo lineatus
+2011,438.78,248,Golden Gate,Buteo lineatus
+2010,465.3,149,Golden Gate,Buteo lineatus
+2009,496.75,529,Golden Gate,Buteo lineatus
+2008,508.4,559,Golden Gate,Buteo lineatus
+2007,523.5,512,Golden Gate,Buteo lineatus
+2006,492.25,612,Golden Gate,Buteo lineatus
+2005,454.5,149,Golden Gate,Buteo lineatus
+2004,528.67,548,Golden Gate,Buteo lineatus
+2003,500.28,289,Golden Gate,Buteo lineatus
+2002,523.58,677,Golden Gate,Buteo lineatus
+2001,445.37,485,Golden Gate,Buteo lineatus
+2000,550.52,279,Golden Gate,Buteo lineatus
+2023,893.6,1,Veracruz,Buteo lineatus
+2022,895.77,1,Veracruz,Buteo lineatus
+2019,883.55,2,Veracruz,Buteo lineatus
+2018,690.52,4,Veracruz,Buteo lineatus
+2017,840.25,3,Veracruz,Buteo lineatus
+2016,838.75,2,Veracruz,Buteo lineatus
+2015,754.58,0,Veracruz,Buteo lineatus
+2014,875.92,2,Veracruz,Buteo lineatus
+2013,868.9,0,Veracruz,Buteo lineatus
+2012,901.65,4,Veracruz,Buteo lineatus
+2011,895.75,12,Veracruz,Buteo lineatus
+2010,801.15,4,Veracruz,Buteo lineatus
+2009,828.45,5,Veracruz,Buteo lineatus
+2008,877.35,6,Veracruz,Buteo lineatus
+2007,907.98,9,Veracruz,Buteo lineatus
+2006,890.45,6,Veracruz,Buteo lineatus
+2005,873.75,4,Veracruz,Buteo lineatus
+2004,898.75,5,Veracruz,Buteo lineatus
+2003,893.48,1,Veracruz,Buteo lineatus
+2002,877.42,3,Veracruz,Buteo lineatus
+2001,867.67,2,Veracruz,Buteo lineatus
+2000,862.17,3,Veracruz,Buteo lineatus
+2023,367,1,Bonney Butte,Buteo lineatus
+2022,468.17,4,Bonney Butte,Buteo lineatus
+2021,404.33,1,Bonney Butte,Buteo lineatus
+2019,302.42,2,Bonney Butte,Buteo lineatus
+2018,394.17,2,Bonney Butte,Buteo lineatus
+2017,412.08,0,Bonney Butte,Buteo lineatus
+2016,293.75,0,Bonney Butte,Buteo lineatus
+2015,311.57,1,Bonney Butte,Buteo lineatus
+2014,351.57,2,Bonney Butte,Buteo lineatus
+2013,331.75,0,Bonney Butte,Buteo lineatus
+2012,451.45,1,Bonney Butte,Buteo lineatus
+2011,414.33,0,Bonney Butte,Buteo lineatus
+2010,421.42,0,Bonney Butte,Buteo lineatus
+2009,425.75,1,Bonney Butte,Buteo lineatus
+2008,481.83,3,Bonney Butte,Buteo lineatus
+2007,396,3,Bonney Butte,Buteo lineatus
+2006,459.92,0,Bonney Butte,Buteo lineatus
+2005,392.92,0,Bonney Butte,Buteo lineatus
+2004,340.58,7,Bonney Butte,Buteo lineatus
+2003,402.42,1,Bonney Butte,Buteo lineatus
+2002,423.67,0,Bonney Butte,Buteo lineatus
+2001,415.75,0,Bonney Butte,Buteo lineatus
+2000,328.5,3,Bonney Butte,Buteo lineatus
+2023,1112.58,964,Hawk Mountain,Cathartes aura
+2022,1075.92,638,Hawk Mountain,Cathartes aura
+2021,1123.07,649,Hawk Mountain,Cathartes aura
+2020,1084.6,977,Hawk Mountain,Cathartes aura
+2019,1080.03,727,Hawk Mountain,Cathartes aura
+2018,1027.02,550,Hawk Mountain,Cathartes aura
+2017,1013.22,701,Hawk Mountain,Cathartes aura
+2016,1137.5,613,Hawk Mountain,Cathartes aura
+2015,1127.67,416,Hawk Mountain,Cathartes aura
+2014,1102.03,940,Hawk Mountain,Cathartes aura
+2013,1125.45,598,Hawk Mountain,Cathartes aura
+2012,1108.2,412,Hawk Mountain,Cathartes aura
+2011,1076.07,669,Hawk Mountain,Cathartes aura
+2010,1087.1,650,Hawk Mountain,Cathartes aura
+2009,1032.63,461,Hawk Mountain,Cathartes aura
+2008,1082.32,357,Hawk Mountain,Cathartes aura
+2007,1103.18,640,Hawk Mountain,Cathartes aura
+2006,1114.82,456,Hawk Mountain,Cathartes aura
+2005,1143.12,470,Hawk Mountain,Cathartes aura
+2004,1079.95,177,Hawk Mountain,Cathartes aura
+2003,1052.72,329,Hawk Mountain,Cathartes aura
+2002,1039.05,228,Hawk Mountain,Cathartes aura
+2001,1136.82,329,Hawk Mountain,Cathartes aura
+2000,1125.43,169,Hawk Mountain,Cathartes aura
+2023,714.3,1170,Goshutes,Cathartes aura
+2022,674.87,1103,Goshutes,Cathartes aura
+2021,672.13,364,Goshutes,Cathartes aura
+2020,,,Goshutes,Cathartes aura
+2019,662.6,575,Goshutes,Cathartes aura
+2018,706.75,1286,Goshutes,Cathartes aura
+2017,697.75,264,Goshutes,Cathartes aura
+2016,649.17,370,Goshutes,Cathartes aura
+2015,616.25,1102,Goshutes,Cathartes aura
+2014,641.17,661,Goshutes,Cathartes aura
+2013,563.83,980,Goshutes,Cathartes aura
+2012,741.25,329,Goshutes,Cathartes aura
+2011,682.03,443,Goshutes,Cathartes aura
+2010,692.6,682,Goshutes,Cathartes aura
+2009,733.58,640,Goshutes,Cathartes aura
+2008,761.07,637,Goshutes,Cathartes aura
+2007,747.97,735,Goshutes,Cathartes aura
+2006,719.58,355,Goshutes,Cathartes aura
+2005,695.3,445,Goshutes,Cathartes aura
+2004,641.75,685,Goshutes,Cathartes aura
+2003,688.25,466,Goshutes,Cathartes aura
+2002,725.67,243,Goshutes,Cathartes aura
+2001,787.33,441,Goshutes,Cathartes aura
+2000,681.5,297,Goshutes,Cathartes aura
+2023,900.62,2027,Cape May,Cathartes aura
+2022,896.25,3902,Cape May,Cathartes aura
+2021,898,2246,Cape May,Cathartes aura
+2020,873.27,1695,Cape May,Cathartes aura
+2019,905.67,1900,Cape May,Cathartes aura
+2018,914.43,4498,Cape May,Cathartes aura
+2017,900.32,1905,Cape May,Cathartes aura
+2016,933.32,3090,Cape May,Cathartes aura
+2015,884.55,724,Cape May,Cathartes aura
+2014,906.67,2195,Cape May,Cathartes aura
+2013,866.58,2541,Cape May,Cathartes aura
+2012,1092,1556,Cape May,Cathartes aura
+2011,800.53,630,Cape May,Cathartes aura
+2010,882.25,2636,Cape May,Cathartes aura
+2009,869.2,2056,Cape May,Cathartes aura
+2008,808.5,1071,Cape May,Cathartes aura
+2007,882.17,2033,Cape May,Cathartes aura
+2006,743.58,2152,Cape May,Cathartes aura
+2005,832.5,3131,Cape May,Cathartes aura
+2004,857.43,1217,Cape May,Cathartes aura
+2003,896.52,1241,Cape May,Cathartes aura
+2002,895.8,1215,Cape May,Cathartes aura
+2001,822.8,1051,Cape May,Cathartes aura
+2000,859.33,776,Cape May,Cathartes aura
+2023,564,94132,Detroit River,Cathartes aura
+2022,567.25,532,Detroit River,Cathartes aura
+2021,546,60098,Detroit River,Cathartes aura
+2020,568,72585,Detroit River,Cathartes aura
+2019,575.25,52438,Detroit River,Cathartes aura
+2018,541.75,61967,Detroit River,Cathartes aura
+2017,636.75,53398,Detroit River,Cathartes aura
+2016,635.5,38528,Detroit River,Cathartes aura
+2015,648,73601,Detroit River,Cathartes aura
+2014,627.5,69768,Detroit River,Cathartes aura
+2013,642.5,69723,Detroit River,Cathartes aura
+2012,619,43285,Detroit River,Cathartes aura
+2011,591.5,52745,Detroit River,Cathartes aura
+2010,564.5,122325,Detroit River,Cathartes aura
+2009,519.42,54989,Detroit River,Cathartes aura
+2008,464.9,35173,Detroit River,Cathartes aura
+2007,598.5,62882,Detroit River,Cathartes aura
+2006,475.75,51722,Detroit River,Cathartes aura
+2005,456.25,29699,Detroit River,Cathartes aura
+2004,478.75,36893,Detroit River,Cathartes aura
+2003,545.33,54975,Detroit River,Cathartes aura
+2002,561.5,42644,Detroit River,Cathartes aura
+2001,526,28237,Detroit River,Cathartes aura
+2000,510.2,29421,Detroit River,Cathartes aura
+2023,682.5,2984,Florida Keys,Cathartes aura
+2022,866.5,9948,Florida Keys,Cathartes aura
+2021,904.25,13567,Florida Keys,Cathartes aura
+2020,455.25,2182,Florida Keys,Cathartes aura
+2019,409.25,994,Florida Keys,Cathartes aura
+2018,409.75,3210,Florida Keys,Cathartes aura
+2017,25.75,20,Florida Keys,Cathartes aura
+2016,428,829,Florida Keys,Cathartes aura
+2015,298.25,2303,Florida Keys,Cathartes aura
+2014,444.75,10049,Florida Keys,Cathartes aura
+2013,362,1241,Florida Keys,Cathartes aura
+2012,414.5,7758,Florida Keys,Cathartes aura
+2011,420,1200,Florida Keys,Cathartes aura
+2010,297.5,0,Florida Keys,Cathartes aura
+2009,,,Florida Keys,Cathartes aura
+2008,348.75,0,Florida Keys,Cathartes aura
+2007,361,0,Florida Keys,Cathartes aura
+2006,385.25,0,Florida Keys,Cathartes aura
+2005,329.5,0,Florida Keys,Cathartes aura
+2004,403.17,0,Florida Keys,Cathartes aura
+2003,462.5,0,Florida Keys,Cathartes aura
+2002,479.25,0,Florida Keys,Cathartes aura
+2001,459.5,0,Florida Keys,Cathartes aura
+2000,495,11475,Florida Keys,Cathartes aura
+2023,963.97,1984,Hawk Ridge,Cathartes aura
+2022,899.08,1153,Hawk Ridge,Cathartes aura
+2021,904.67,988,Hawk Ridge,Cathartes aura
+2020,716.25,2320,Hawk Ridge,Cathartes aura
+2019,859.42,1355,Hawk Ridge,Cathartes aura
+2018,723.7,2573,Hawk Ridge,Cathartes aura
+2017,721.18,1729,Hawk Ridge,Cathartes aura
+2016,828,1683,Hawk Ridge,Cathartes aura
+2015,804.33,1095,Hawk Ridge,Cathartes aura
+2014,846.93,1776,Hawk Ridge,Cathartes aura
+2013,830,1088,Hawk Ridge,Cathartes aura
+2012,888.65,1628,Hawk Ridge,Cathartes aura
+2011,961.4,1038,Hawk Ridge,Cathartes aura
+2010,902.12,1181,Hawk Ridge,Cathartes aura
+2009,908.27,1040,Hawk Ridge,Cathartes aura
+2008,927.92,906,Hawk Ridge,Cathartes aura
+2007,784.1,1340,Hawk Ridge,Cathartes aura
+2006,740,1311,Hawk Ridge,Cathartes aura
+2005,756,1072,Hawk Ridge,Cathartes aura
+2004,747.5,1218,Hawk Ridge,Cathartes aura
+2003,798.5,1776,Hawk Ridge,Cathartes aura
+2002,769.75,1560,Hawk Ridge,Cathartes aura
+2001,774.5,1329,Hawk Ridge,Cathartes aura
+2000,760.5,1501,Hawk Ridge,Cathartes aura
+2023,797.42,366223,Corpus Christi,Cathartes aura
+2022,835.1,179170,Corpus Christi,Cathartes aura
+2021,849.83,117699,Corpus Christi,Cathartes aura
+2020,819.5,108578,Corpus Christi,Cathartes aura
+2019,852.75,96288,Corpus Christi,Cathartes aura
+2018,831.53,94166,Corpus Christi,Cathartes aura
+2017,828.25,87934,Corpus Christi,Cathartes aura
+2016,634,45283,Corpus Christi,Cathartes aura
+2015,597,169878,Corpus Christi,Cathartes aura
+2014,587,57128,Corpus Christi,Cathartes aura
+2013,595.75,78587,Corpus Christi,Cathartes aura
+2012,736.08,52543,Corpus Christi,Cathartes aura
+2011,693.25,62521,Corpus Christi,Cathartes aura
+2010,689.25,28926,Corpus Christi,Cathartes aura
+2009,688,21018,Corpus Christi,Cathartes aura
+2008,830.42,28530,Corpus Christi,Cathartes aura
+2007,798.75,46503,Corpus Christi,Cathartes aura
+2006,704.5,29115,Corpus Christi,Cathartes aura
+2005,715.75,19090,Corpus Christi,Cathartes aura
+2004,701,17759,Corpus Christi,Cathartes aura
+2003,643.5,22900,Corpus Christi,Cathartes aura
+2002,676.5,42536,Corpus Christi,Cathartes aura
+2001,723.5,4870,Corpus Christi,Cathartes aura
+2000,728.58,36690,Corpus Christi,Cathartes aura
+2023,,,Golden Gate,Cathartes aura
+2022,410.75,5974,Golden Gate,Cathartes aura
+2021,299.67,3414,Golden Gate,Cathartes aura
+2020,443.62,7345,Golden Gate,Cathartes aura
+2019,,,Golden Gate,Cathartes aura
+2018,407.62,6694,Golden Gate,Cathartes aura
+2017,473.5,7063,Golden Gate,Cathartes aura
+2016,439.67,5950,Golden Gate,Cathartes aura
+2015,539.53,9692,Golden Gate,Cathartes aura
+2014,487.7,8276,Golden Gate,Cathartes aura
+2013,490.08,6623,Golden Gate,Cathartes aura
+2012,441.55,6622,Golden Gate,Cathartes aura
+2011,438.78,6447,Golden Gate,Cathartes aura
+2010,465.3,5392,Golden Gate,Cathartes aura
+2009,496.75,8060,Golden Gate,Cathartes aura
+2008,508.4,7529,Golden Gate,Cathartes aura
+2007,523.5,9228,Golden Gate,Cathartes aura
+2006,492.25,9211,Golden Gate,Cathartes aura
+2005,454.5,7877,Golden Gate,Cathartes aura
+2004,528.67,10112,Golden Gate,Cathartes aura
+2003,500.28,10804,Golden Gate,Cathartes aura
+2002,523.58,11059,Golden Gate,Cathartes aura
+2001,445.37,8307,Golden Gate,Cathartes aura
+2000,550.52,9549,Golden Gate,Cathartes aura
+2023,893.6,1307325,Veracruz,Cathartes aura
+2022,895.77,1213479,Veracruz,Cathartes aura
+2021,,,Veracruz,Cathartes aura
+2020,,,Veracruz,Cathartes aura
+2019,883.55,1038431,Veracruz,Cathartes aura
+2018,690.52,1081774,Veracruz,Cathartes aura
+2017,840.25,915646,Veracruz,Cathartes aura
+2016,838.75,740407,Veracruz,Cathartes aura
+2015,754.58,940890,Veracruz,Cathartes aura
+2014,875.92,853435,Veracruz,Cathartes aura
+2013,868.9,1020235,Veracruz,Cathartes aura
+2012,901.65,1225131,Veracruz,Cathartes aura
+2011,895.75,937240,Veracruz,Cathartes aura
+2010,801.15,661544,Veracruz,Cathartes aura
+2009,828.45,1091564,Veracruz,Cathartes aura
+2008,877.35,605903,Veracruz,Cathartes aura
+2007,907.98,813392,Veracruz,Cathartes aura
+2006,890.45,731872,Veracruz,Cathartes aura
+2005,873.75,1098770,Veracruz,Cathartes aura
+2004,898.75,1285136,Veracruz,Cathartes aura
+2003,893.48,862217,Veracruz,Cathartes aura
+2002,877.42,1698521,Veracruz,Cathartes aura
+2001,867.67,995976,Veracruz,Cathartes aura
+2000,862.17,1123598,Veracruz,Cathartes aura
+2023,367,506,Bonney Butte,Cathartes aura
+2022,468.17,400,Bonney Butte,Cathartes aura
+2021,404.33,488,Bonney Butte,Cathartes aura
+2020,,,Bonney Butte,Cathartes aura
+2019,302.42,213,Bonney Butte,Cathartes aura
+2018,394.17,491,Bonney Butte,Cathartes aura
+2017,412.08,438,Bonney Butte,Cathartes aura
+2016,293.75,596,Bonney Butte,Cathartes aura
+2015,311.57,494,Bonney Butte,Cathartes aura
+2014,351.57,322,Bonney Butte,Cathartes aura
+2013,331.75,337,Bonney Butte,Cathartes aura
+2012,451.45,790,Bonney Butte,Cathartes aura
+2011,414.33,510,Bonney Butte,Cathartes aura
+2010,421.42,446,Bonney Butte,Cathartes aura
+2009,425.75,469,Bonney Butte,Cathartes aura
+2008,481.83,269,Bonney Butte,Cathartes aura
+2007,396,281,Bonney Butte,Cathartes aura
+2006,459.92,232,Bonney Butte,Cathartes aura
+2005,392.92,389,Bonney Butte,Cathartes aura
+2004,340.58,326,Bonney Butte,Cathartes aura
+2003,402.42,488,Bonney Butte,Cathartes aura
+2002,423.67,286,Bonney Butte,Cathartes aura
+2001,415.75,338,Bonney Butte,Cathartes aura
+2000,328.5,553,Bonney Butte,Cathartes aura
+2023,1112.58,131,Hawk Mountain,Circus hudsonius
+2022,1075.92,101,Hawk Mountain,Circus hudsonius
+2021,1123.07,122,Hawk Mountain,Circus hudsonius
+2020,1084.6,135,Hawk Mountain,Circus hudsonius
+2019,1080.03,95,Hawk Mountain,Circus hudsonius
+2018,1027.02,130,Hawk Mountain,Circus hudsonius
+2017,1013.22,79,Hawk Mountain,Circus hudsonius
+2016,1137.5,118,Hawk Mountain,Circus hudsonius
+2015,1127.67,148,Hawk Mountain,Circus hudsonius
+2014,1102.03,167,Hawk Mountain,Circus hudsonius
+2013,1125.45,111,Hawk Mountain,Circus hudsonius
+2012,1108.2,148,Hawk Mountain,Circus hudsonius
+2011,1076.07,153,Hawk Mountain,Circus hudsonius
+2010,1087.1,180,Hawk Mountain,Circus hudsonius
+2009,1032.63,146,Hawk Mountain,Circus hudsonius
+2008,1082.32,143,Hawk Mountain,Circus hudsonius
+2007,1103.18,277,Hawk Mountain,Circus hudsonius
+2006,1114.82,276,Hawk Mountain,Circus hudsonius
+2005,1143.12,213,Hawk Mountain,Circus hudsonius
+2004,1079.95,185,Hawk Mountain,Circus hudsonius
+2003,1052.72,257,Hawk Mountain,Circus hudsonius
+2002,1039.05,182,Hawk Mountain,Circus hudsonius
+2001,1136.82,255,Hawk Mountain,Circus hudsonius
+2000,1125.43,140,Hawk Mountain,Circus hudsonius
+2023,714.3,181,Goshutes,Circus hudsonius
+2022,674.87,81,Goshutes,Circus hudsonius
+2021,672.13,99,Goshutes,Circus hudsonius
+2020,,,Goshutes,Circus hudsonius
+2019,662.6,100,Goshutes,Circus hudsonius
+2018,706.75,285,Goshutes,Circus hudsonius
+2017,697.75,157,Goshutes,Circus hudsonius
+2016,649.17,212,Goshutes,Circus hudsonius
+2015,616.25,239,Goshutes,Circus hudsonius
+2014,641.17,145,Goshutes,Circus hudsonius
+2013,563.83,90,Goshutes,Circus hudsonius
+2012,741.25,162,Goshutes,Circus hudsonius
+2011,682.03,142,Goshutes,Circus hudsonius
+2010,692.6,201,Goshutes,Circus hudsonius
+2009,733.58,154,Goshutes,Circus hudsonius
+2008,761.07,158,Goshutes,Circus hudsonius
+2007,747.97,186,Goshutes,Circus hudsonius
+2006,719.58,177,Goshutes,Circus hudsonius
+2005,695.3,153,Goshutes,Circus hudsonius
+2004,641.75,96,Goshutes,Circus hudsonius
+2003,688.25,127,Goshutes,Circus hudsonius
+2002,725.67,154,Goshutes,Circus hudsonius
+2001,787.33,178,Goshutes,Circus hudsonius
+2000,681.5,233,Goshutes,Circus hudsonius
+2023,900.62,1263,Cape May,Circus hudsonius
+2022,896.25,1086,Cape May,Circus hudsonius
+2021,898,1109,Cape May,Circus hudsonius
+2020,873.27,1013,Cape May,Circus hudsonius
+2019,905.67,467,Cape May,Circus hudsonius
+2018,914.43,1389,Cape May,Circus hudsonius
+2017,900.32,774,Cape May,Circus hudsonius
+2016,933.32,982,Cape May,Circus hudsonius
+2015,884.55,944,Cape May,Circus hudsonius
+2014,906.67,1314,Cape May,Circus hudsonius
+2013,866.58,1138,Cape May,Circus hudsonius
+2012,1092,1308,Cape May,Circus hudsonius
+2011,800.53,811,Cape May,Circus hudsonius
+2010,882.25,2385,Cape May,Circus hudsonius
+2009,869.2,895,Cape May,Circus hudsonius
+2008,808.5,613,Cape May,Circus hudsonius
+2007,882.17,1303,Cape May,Circus hudsonius
+2006,743.58,1510,Cape May,Circus hudsonius
+2005,832.5,1219,Cape May,Circus hudsonius
+2004,857.43,841,Cape May,Circus hudsonius
+2003,896.52,2458,Cape May,Circus hudsonius
+2002,895.8,1253,Cape May,Circus hudsonius
+2001,822.8,1201,Cape May,Circus hudsonius
+2000,859.33,743,Cape May,Circus hudsonius
+2023,564,516,Detroit River,Circus hudsonius
+2022,567.25,393,Detroit River,Circus hudsonius
+2021,546,379,Detroit River,Circus hudsonius
+2020,568,421,Detroit River,Circus hudsonius
+2019,575.25,344,Detroit River,Circus hudsonius
+2018,541.75,413,Detroit River,Circus hudsonius
+2017,636.75,323,Detroit River,Circus hudsonius
+2016,635.5,377,Detroit River,Circus hudsonius
+2015,648,632,Detroit River,Circus hudsonius
+2014,627.5,423,Detroit River,Circus hudsonius
+2013,642.5,234,Detroit River,Circus hudsonius
+2012,619,248,Detroit River,Circus hudsonius
+2011,591.5,278,Detroit River,Circus hudsonius
+2010,564.5,465,Detroit River,Circus hudsonius
+2009,519.42,169,Detroit River,Circus hudsonius
+2008,464.9,149,Detroit River,Circus hudsonius
+2007,598.5,818,Detroit River,Circus hudsonius
+2006,475.75,616,Detroit River,Circus hudsonius
+2005,456.25,291,Detroit River,Circus hudsonius
+2004,478.75,214,Detroit River,Circus hudsonius
+2003,545.33,1005,Detroit River,Circus hudsonius
+2002,561.5,696,Detroit River,Circus hudsonius
+2001,526,757,Detroit River,Circus hudsonius
+2000,510.2,138,Detroit River,Circus hudsonius
+2023,682.5,957,Florida Keys,Circus hudsonius
+2022,866.5,800,Florida Keys,Circus hudsonius
+2021,904.25,759,Florida Keys,Circus hudsonius
+2020,455.25,1067,Florida Keys,Circus hudsonius
+2019,409.25,455,Florida Keys,Circus hudsonius
+2018,409.75,851,Florida Keys,Circus hudsonius
+2017,25.75,3,Florida Keys,Circus hudsonius
+2016,428,803,Florida Keys,Circus hudsonius
+2015,298.25,833,Florida Keys,Circus hudsonius
+2014,444.75,946,Florida Keys,Circus hudsonius
+2013,362,488,Florida Keys,Circus hudsonius
+2012,414.5,959,Florida Keys,Circus hudsonius
+2011,420,1063,Florida Keys,Circus hudsonius
+2010,297.5,651,Florida Keys,Circus hudsonius
+2009,,,Florida Keys,Circus hudsonius
+2008,348.75,527,Florida Keys,Circus hudsonius
+2007,361,835,Florida Keys,Circus hudsonius
+2006,385.25,558,Florida Keys,Circus hudsonius
+2005,329.5,332,Florida Keys,Circus hudsonius
+2004,403.17,371,Florida Keys,Circus hudsonius
+2003,462.5,531,Florida Keys,Circus hudsonius
+2002,479.25,449,Florida Keys,Circus hudsonius
+2001,459.5,741,Florida Keys,Circus hudsonius
+2000,495,527,Florida Keys,Circus hudsonius
+2023,963.97,742,Hawk Ridge,Circus hudsonius
+2022,899.08,584,Hawk Ridge,Circus hudsonius
+2021,904.67,428,Hawk Ridge,Circus hudsonius
+2020,716.25,290,Hawk Ridge,Circus hudsonius
+2019,859.42,542,Hawk Ridge,Circus hudsonius
+2018,723.7,406,Hawk Ridge,Circus hudsonius
+2017,721.18,609,Hawk Ridge,Circus hudsonius
+2016,828,869,Hawk Ridge,Circus hudsonius
+2015,804.33,562,Hawk Ridge,Circus hudsonius
+2014,846.93,716,Hawk Ridge,Circus hudsonius
+2013,830,368,Hawk Ridge,Circus hudsonius
+2012,888.65,452,Hawk Ridge,Circus hudsonius
+2011,961.4,755,Hawk Ridge,Circus hudsonius
+2010,902.12,500,Hawk Ridge,Circus hudsonius
+2009,908.27,314,Hawk Ridge,Circus hudsonius
+2008,927.92,344,Hawk Ridge,Circus hudsonius
+2007,784.1,535,Hawk Ridge,Circus hudsonius
+2006,740,414,Hawk Ridge,Circus hudsonius
+2005,756,261,Hawk Ridge,Circus hudsonius
+2004,747.5,271,Hawk Ridge,Circus hudsonius
+2003,798.5,654,Hawk Ridge,Circus hudsonius
+2002,769.75,484,Hawk Ridge,Circus hudsonius
+2001,774.5,384,Hawk Ridge,Circus hudsonius
+2000,760.5,214,Hawk Ridge,Circus hudsonius
+2023,797.42,931,Corpus Christi,Circus hudsonius
+2022,835.1,755,Corpus Christi,Circus hudsonius
+2021,849.83,643,Corpus Christi,Circus hudsonius
+2020,819.5,453,Corpus Christi,Circus hudsonius
+2019,852.75,436,Corpus Christi,Circus hudsonius
+2018,831.53,504,Corpus Christi,Circus hudsonius
+2017,828.25,351,Corpus Christi,Circus hudsonius
+2016,634,161,Corpus Christi,Circus hudsonius
+2015,597,178,Corpus Christi,Circus hudsonius
+2014,587,171,Corpus Christi,Circus hudsonius
+2013,595.75,253,Corpus Christi,Circus hudsonius
+2012,736.08,542,Corpus Christi,Circus hudsonius
+2011,693.25,546,Corpus Christi,Circus hudsonius
+2010,689.25,257,Corpus Christi,Circus hudsonius
+2009,688,282,Corpus Christi,Circus hudsonius
+2008,830.42,219,Corpus Christi,Circus hudsonius
+2007,798.75,223,Corpus Christi,Circus hudsonius
+2006,704.5,614,Corpus Christi,Circus hudsonius
+2005,715.75,157,Corpus Christi,Circus hudsonius
+2004,701,101,Corpus Christi,Circus hudsonius
+2003,643.5,100,Corpus Christi,Circus hudsonius
+2002,676.5,109,Corpus Christi,Circus hudsonius
+2001,723.5,162,Corpus Christi,Circus hudsonius
+2000,728.58,153,Corpus Christi,Circus hudsonius
+2023,,,Golden Gate,Circus hudsonius
+2022,410.75,191,Golden Gate,Circus hudsonius
+2021,299.67,426,Golden Gate,Circus hudsonius
+2020,443.62,810,Golden Gate,Circus hudsonius
+2019,,,Golden Gate,Circus hudsonius
+2018,407.62,600,Golden Gate,Circus hudsonius
+2017,473.5,905,Golden Gate,Circus hudsonius
+2016,439.67,354,Golden Gate,Circus hudsonius
+2015,539.53,442,Golden Gate,Circus hudsonius
+2014,487.7,392,Golden Gate,Circus hudsonius
+2013,490.08,416,Golden Gate,Circus hudsonius
+2012,441.55,523,Golden Gate,Circus hudsonius
+2011,438.78,335,Golden Gate,Circus hudsonius
+2010,465.3,229,Golden Gate,Circus hudsonius
+2009,496.75,614,Golden Gate,Circus hudsonius
+2008,508.4,454,Golden Gate,Circus hudsonius
+2007,523.5,1002,Golden Gate,Circus hudsonius
+2006,492.25,1090,Golden Gate,Circus hudsonius
+2005,454.5,460,Golden Gate,Circus hudsonius
+2004,528.67,956,Golden Gate,Circus hudsonius
+2003,500.28,352,Golden Gate,Circus hudsonius
+2002,523.58,1318,Golden Gate,Circus hudsonius
+2001,445.37,700,Golden Gate,Circus hudsonius
+2000,550.52,559,Golden Gate,Circus hudsonius
+2023,893.6,217,Veracruz,Circus hudsonius
+2022,895.77,243,Veracruz,Circus hudsonius
+2021,,,Veracruz,Circus hudsonius
+2020,,,Veracruz,Circus hudsonius
+2019,883.55,222,Veracruz,Circus hudsonius
+2018,690.52,217,Veracruz,Circus hudsonius
+2017,840.25,308,Veracruz,Circus hudsonius
+2016,838.75,79,Veracruz,Circus hudsonius
+2015,754.58,74,Veracruz,Circus hudsonius
+2014,875.92,195,Veracruz,Circus hudsonius
+2013,868.9,202,Veracruz,Circus hudsonius
+2012,901.65,812,Veracruz,Circus hudsonius
+2011,895.75,451,Veracruz,Circus hudsonius
+2010,801.15,165,Veracruz,Circus hudsonius
+2009,828.45,155,Veracruz,Circus hudsonius
+2008,877.35,115,Veracruz,Circus hudsonius
+2007,907.98,116,Veracruz,Circus hudsonius
+2006,890.45,337,Veracruz,Circus hudsonius
+2005,873.75,95,Veracruz,Circus hudsonius
+2004,898.75,49,Veracruz,Circus hudsonius
+2003,893.48,59,Veracruz,Circus hudsonius
+2002,877.42,183,Veracruz,Circus hudsonius
+2001,867.67,381,Veracruz,Circus hudsonius
+2000,862.17,378,Veracruz,Circus hudsonius
+2023,367,20,Bonney Butte,Circus hudsonius
+2022,468.17,16,Bonney Butte,Circus hudsonius
+2021,404.33,16,Bonney Butte,Circus hudsonius
+2020,,,Bonney Butte,Circus hudsonius
+2019,302.42,11,Bonney Butte,Circus hudsonius
+2018,394.17,35,Bonney Butte,Circus hudsonius
+2017,412.08,22,Bonney Butte,Circus hudsonius
+2016,293.75,12,Bonney Butte,Circus hudsonius
+2015,311.57,24,Bonney Butte,Circus hudsonius
+2014,351.57,18,Bonney Butte,Circus hudsonius
+2013,331.75,13,Bonney Butte,Circus hudsonius
+2012,451.45,24,Bonney Butte,Circus hudsonius
+2011,414.33,39,Bonney Butte,Circus hudsonius
+2010,421.42,18,Bonney Butte,Circus hudsonius
+2009,425.75,33,Bonney Butte,Circus hudsonius
+2008,481.83,19,Bonney Butte,Circus hudsonius
+2007,396,13,Bonney Butte,Circus hudsonius
+2006,459.92,33,Bonney Butte,Circus hudsonius
+2005,392.92,38,Bonney Butte,Circus hudsonius
+2004,340.58,29,Bonney Butte,Circus hudsonius
+2003,402.42,28,Bonney Butte,Circus hudsonius
+2002,423.67,27,Bonney Butte,Circus hudsonius
+2001,415.75,7,Bonney Butte,Circus hudsonius
+2000,328.5,13,Bonney Butte,Circus hudsonius
+2023,1112.58,64,Hawk Mountain,Falco peregrinus
+2022,1075.92,61,Hawk Mountain,Falco peregrinus
+2021,1123.07,71,Hawk Mountain,Falco peregrinus
+2020,1084.6,83,Hawk Mountain,Falco peregrinus
+2019,1080.03,56,Hawk Mountain,Falco peregrinus
+2018,1027.02,61,Hawk Mountain,Falco peregrinus
+2017,1013.22,68,Hawk Mountain,Falco peregrinus
+2016,1137.5,48,Hawk Mountain,Falco peregrinus
+2015,1127.67,56,Hawk Mountain,Falco peregrinus
+2014,1102.03,90,Hawk Mountain,Falco peregrinus
+2013,1125.45,47,Hawk Mountain,Falco peregrinus
+2012,1108.2,54,Hawk Mountain,Falco peregrinus
+2011,1076.07,57,Hawk Mountain,Falco peregrinus
+2010,1087.1,68,Hawk Mountain,Falco peregrinus
+2009,1032.63,67,Hawk Mountain,Falco peregrinus
+2008,1082.32,61,Hawk Mountain,Falco peregrinus
+2007,1103.18,38,Hawk Mountain,Falco peregrinus
+2006,1114.82,62,Hawk Mountain,Falco peregrinus
+2005,1143.12,55,Hawk Mountain,Falco peregrinus
+2004,1079.95,44,Hawk Mountain,Falco peregrinus
+2003,1052.72,55,Hawk Mountain,Falco peregrinus
+2002,1039.05,62,Hawk Mountain,Falco peregrinus
+2001,1136.82,36,Hawk Mountain,Falco peregrinus
+2000,1125.43,47,Hawk Mountain,Falco peregrinus
+2023,714.3,34,Goshutes,Falco peregrinus
+2022,674.87,13,Goshutes,Falco peregrinus
+2021,672.13,26,Goshutes,Falco peregrinus
+2020,,,Goshutes,Falco peregrinus
+2019,662.6,21,Goshutes,Falco peregrinus
+2018,706.75,40,Goshutes,Falco peregrinus
+2017,697.75,25,Goshutes,Falco peregrinus
+2016,649.17,26,Goshutes,Falco peregrinus
+2015,616.25,45,Goshutes,Falco peregrinus
+2014,641.17,33,Goshutes,Falco peregrinus
+2013,563.83,26,Goshutes,Falco peregrinus
+2012,741.25,11,Goshutes,Falco peregrinus
+2011,682.03,46,Goshutes,Falco peregrinus
+2010,692.6,42,Goshutes,Falco peregrinus
+2009,733.58,23,Goshutes,Falco peregrinus
+2008,761.07,22,Goshutes,Falco peregrinus
+2007,747.97,18,Goshutes,Falco peregrinus
+2006,719.58,17,Goshutes,Falco peregrinus
+2005,695.3,14,Goshutes,Falco peregrinus
+2004,641.75,11,Goshutes,Falco peregrinus
+2003,688.25,9,Goshutes,Falco peregrinus
+2002,725.67,15,Goshutes,Falco peregrinus
+2001,787.33,29,Goshutes,Falco peregrinus
+2000,681.5,21,Goshutes,Falco peregrinus
+2023,900.62,820,Cape May,Falco peregrinus
+2022,896.25,921,Cape May,Falco peregrinus
+2021,898,776,Cape May,Falco peregrinus
+2020,873.27,733,Cape May,Falco peregrinus
+2019,905.67,480,Cape May,Falco peregrinus
+2018,914.43,1521,Cape May,Falco peregrinus
+2017,900.32,1117,Cape May,Falco peregrinus
+2016,933.32,969,Cape May,Falco peregrinus
+2015,884.55,437,Cape May,Falco peregrinus
+2014,906.67,995,Cape May,Falco peregrinus
+2013,866.58,1172,Cape May,Falco peregrinus
+2012,1092,1161,Cape May,Falco peregrinus
+2011,800.53,1080,Cape May,Falco peregrinus
+2010,882.25,1415,Cape May,Falco peregrinus
+2009,869.2,1206,Cape May,Falco peregrinus
+2008,808.5,1412,Cape May,Falco peregrinus
+2007,882.17,1333,Cape May,Falco peregrinus
+2006,743.58,1111,Cape May,Falco peregrinus
+2005,832.5,1164,Cape May,Falco peregrinus
+2004,857.43,1017,Cape May,Falco peregrinus
+2003,896.52,1034,Cape May,Falco peregrinus
+2002,895.8,1050,Cape May,Falco peregrinus
+2001,822.8,588,Cape May,Falco peregrinus
+2000,859.33,988,Cape May,Falco peregrinus
+2023,564,65,Detroit River,Falco peregrinus
+2022,567.25,62,Detroit River,Falco peregrinus
+2021,546,70,Detroit River,Falco peregrinus
+2020,568,102,Detroit River,Falco peregrinus
+2019,575.25,53,Detroit River,Falco peregrinus
+2018,541.75,74,Detroit River,Falco peregrinus
+2017,636.75,67,Detroit River,Falco peregrinus
+2016,635.5,28,Detroit River,Falco peregrinus
+2015,648,37,Detroit River,Falco peregrinus
+2014,627.5,51,Detroit River,Falco peregrinus
+2013,642.5,46,Detroit River,Falco peregrinus
+2012,619,30,Detroit River,Falco peregrinus
+2011,591.5,21,Detroit River,Falco peregrinus
+2010,564.5,40,Detroit River,Falco peregrinus
+2009,519.42,35,Detroit River,Falco peregrinus
+2008,464.9,23,Detroit River,Falco peregrinus
+2007,598.5,67,Detroit River,Falco peregrinus
+2006,475.75,38,Detroit River,Falco peregrinus
+2005,456.25,37,Detroit River,Falco peregrinus
+2004,478.75,20,Detroit River,Falco peregrinus
+2003,545.33,82,Detroit River,Falco peregrinus
+2002,561.5,52,Detroit River,Falco peregrinus
+2001,526,48,Detroit River,Falco peregrinus
+2000,510.2,24,Detroit River,Falco peregrinus
+2023,682.5,3289,Florida Keys,Falco peregrinus
+2022,866.5,2433,Florida Keys,Falco peregrinus
+2021,904.25,3283,Florida Keys,Falco peregrinus
+2020,455.25,3792,Florida Keys,Falco peregrinus
+2019,409.25,2517,Florida Keys,Falco peregrinus
+2018,409.75,3588,Florida Keys,Falco peregrinus
+2017,25.75,3,Florida Keys,Falco peregrinus
+2016,428,3251,Florida Keys,Falco peregrinus
+2015,298.25,4559,Florida Keys,Falco peregrinus
+2014,444.75,4216,Florida Keys,Falco peregrinus
+2013,362,4010,Florida Keys,Falco peregrinus
+2012,414.5,3836,Florida Keys,Falco peregrinus
+2011,420,2976,Florida Keys,Falco peregrinus
+2010,297.5,1530,Florida Keys,Falco peregrinus
+2009,,,Florida Keys,Falco peregrinus
+2008,348.75,2757,Florida Keys,Falco peregrinus
+2007,361,2113,Florida Keys,Falco peregrinus
+2006,385.25,1866,Florida Keys,Falco peregrinus
+2005,329.5,1344,Florida Keys,Falco peregrinus
+2004,403.17,1695,Florida Keys,Falco peregrinus
+2003,462.5,2858,Florida Keys,Falco peregrinus
+2002,479.25,2001,Florida Keys,Falco peregrinus
+2001,459.5,1432,Florida Keys,Falco peregrinus
+2000,495,1894,Florida Keys,Falco peregrinus
+2023,963.97,140,Hawk Ridge,Falco peregrinus
+2022,899.08,64,Hawk Ridge,Falco peregrinus
+2021,904.67,114,Hawk Ridge,Falco peregrinus
+2020,716.25,79,Hawk Ridge,Falco peregrinus
+2019,859.42,155,Hawk Ridge,Falco peregrinus
+2018,723.7,110,Hawk Ridge,Falco peregrinus
+2017,721.18,128,Hawk Ridge,Falco peregrinus
+2016,828,182,Hawk Ridge,Falco peregrinus
+2015,804.33,149,Hawk Ridge,Falco peregrinus
+2014,846.93,105,Hawk Ridge,Falco peregrinus
+2013,830,154,Hawk Ridge,Falco peregrinus
+2012,888.65,53,Hawk Ridge,Falco peregrinus
+2011,961.4,96,Hawk Ridge,Falco peregrinus
+2010,902.12,116,Hawk Ridge,Falco peregrinus
+2009,908.27,115,Hawk Ridge,Falco peregrinus
+2008,927.92,65,Hawk Ridge,Falco peregrinus
+2007,784.1,86,Hawk Ridge,Falco peregrinus
+2006,740,40,Hawk Ridge,Falco peregrinus
+2005,756,76,Hawk Ridge,Falco peregrinus
+2004,747.5,91,Hawk Ridge,Falco peregrinus
+2003,798.5,34,Hawk Ridge,Falco peregrinus
+2002,769.75,88,Hawk Ridge,Falco peregrinus
+2001,774.5,42,Hawk Ridge,Falco peregrinus
+2000,760.5,86,Hawk Ridge,Falco peregrinus
+2023,797.42,200,Corpus Christi,Falco peregrinus
+2022,835.1,161,Corpus Christi,Falco peregrinus
+2021,849.83,169,Corpus Christi,Falco peregrinus
+2020,819.5,163,Corpus Christi,Falco peregrinus
+2019,852.75,478,Corpus Christi,Falco peregrinus
+2018,831.53,393,Corpus Christi,Falco peregrinus
+2017,828.25,343,Corpus Christi,Falco peregrinus
+2016,634,224,Corpus Christi,Falco peregrinus
+2015,597,142,Corpus Christi,Falco peregrinus
+2014,587,237,Corpus Christi,Falco peregrinus
+2013,595.75,291,Corpus Christi,Falco peregrinus
+2012,736.08,317,Corpus Christi,Falco peregrinus
+2011,693.25,181,Corpus Christi,Falco peregrinus
+2010,689.25,165,Corpus Christi,Falco peregrinus
+2009,688,289,Corpus Christi,Falco peregrinus
+2008,830.42,205,Corpus Christi,Falco peregrinus
+2007,798.75,247,Corpus Christi,Falco peregrinus
+2006,704.5,309,Corpus Christi,Falco peregrinus
+2005,715.75,230,Corpus Christi,Falco peregrinus
+2004,701,144,Corpus Christi,Falco peregrinus
+2003,643.5,169,Corpus Christi,Falco peregrinus
+2002,676.5,176,Corpus Christi,Falco peregrinus
+2001,723.5,114,Corpus Christi,Falco peregrinus
+2000,728.58,65,Corpus Christi,Falco peregrinus
+2023,,,Golden Gate,Falco peregrinus
+2022,410.75,4,Golden Gate,Falco peregrinus
+2021,299.67,5,Golden Gate,Falco peregrinus
+2020,443.62,196,Golden Gate,Falco peregrinus
+2019,,,Golden Gate,Falco peregrinus
+2018,407.62,205,Golden Gate,Falco peregrinus
+2017,473.5,252,Golden Gate,Falco peregrinus
+2016,439.67,198,Golden Gate,Falco peregrinus
+2015,539.53,225,Golden Gate,Falco peregrinus
+2014,487.7,276,Golden Gate,Falco peregrinus
+2013,490.08,162,Golden Gate,Falco peregrinus
+2012,441.55,246,Golden Gate,Falco peregrinus
+2011,438.78,264,Golden Gate,Falco peregrinus
+2010,465.3,208,Golden Gate,Falco peregrinus
+2009,496.75,259,Golden Gate,Falco peregrinus
+2008,508.4,224,Golden Gate,Falco peregrinus
+2007,523.5,181,Golden Gate,Falco peregrinus
+2006,492.25,237,Golden Gate,Falco peregrinus
+2005,454.5,219,Golden Gate,Falco peregrinus
+2004,528.67,228,Golden Gate,Falco peregrinus
+2003,500.28,229,Golden Gate,Falco peregrinus
+2002,523.58,106,Golden Gate,Falco peregrinus
+2001,445.37,134,Golden Gate,Falco peregrinus
+2000,550.52,177,Golden Gate,Falco peregrinus
+2023,893.6,214,Veracruz,Falco peregrinus
+2022,895.77,327,Veracruz,Falco peregrinus
+2021,,,Veracruz,Falco peregrinus
+2020,,,Veracruz,Falco peregrinus
+2019,883.55,663,Veracruz,Falco peregrinus
+2018,690.52,704,Veracruz,Falco peregrinus
+2017,840.25,601,Veracruz,Falco peregrinus
+2016,838.75,593,Veracruz,Falco peregrinus
+2015,754.58,513,Veracruz,Falco peregrinus
+2014,875.92,739,Veracruz,Falco peregrinus
+2013,868.9,529,Veracruz,Falco peregrinus
+2012,901.65,776,Veracruz,Falco peregrinus
+2011,895.75,746,Veracruz,Falco peregrinus
+2010,801.15,370,Veracruz,Falco peregrinus
+2009,828.45,642,Veracruz,Falco peregrinus
+2008,877.35,410,Veracruz,Falco peregrinus
+2007,907.98,568,Veracruz,Falco peregrinus
+2006,890.45,505,Veracruz,Falco peregrinus
+2005,873.75,340,Veracruz,Falco peregrinus
+2004,898.75,534,Veracruz,Falco peregrinus
+2003,893.48,541,Veracruz,Falco peregrinus
+2002,877.42,620,Veracruz,Falco peregrinus
+2001,867.67,583,Veracruz,Falco peregrinus
+2000,862.17,593,Veracruz,Falco peregrinus
+2023,367,25,Bonney Butte,Falco peregrinus
+2022,468.17,12,Bonney Butte,Falco peregrinus
+2021,404.33,32,Bonney Butte,Falco peregrinus
+2020,,,Bonney Butte,Falco peregrinus
+2019,302.42,9,Bonney Butte,Falco peregrinus
+2018,394.17,17,Bonney Butte,Falco peregrinus
+2017,412.08,9,Bonney Butte,Falco peregrinus
+2016,293.75,17,Bonney Butte,Falco peregrinus
+2015,311.57,12,Bonney Butte,Falco peregrinus
+2014,351.57,17,Bonney Butte,Falco peregrinus
+2013,331.75,7,Bonney Butte,Falco peregrinus
+2012,451.45,10,Bonney Butte,Falco peregrinus
+2011,414.33,21,Bonney Butte,Falco peregrinus
+2010,421.42,10,Bonney Butte,Falco peregrinus
+2009,425.75,11,Bonney Butte,Falco peregrinus
+2008,481.83,11,Bonney Butte,Falco peregrinus
+2007,396,5,Bonney Butte,Falco peregrinus
+2006,459.92,10,Bonney Butte,Falco peregrinus
+2005,392.92,14,Bonney Butte,Falco peregrinus
+2004,340.58,14,Bonney Butte,Falco peregrinus
+2003,402.42,14,Bonney Butte,Falco peregrinus
+2002,423.67,9,Bonney Butte,Falco peregrinus
+2001,415.75,3,Bonney Butte,Falco peregrinus
+2000,328.5,8,Bonney Butte,Falco peregrinus
+2023,1112.58,251,Hawk Mountain,Falco sparverius
+2022,1075.92,312,Hawk Mountain,Falco sparverius
+2021,1123.07,371,Hawk Mountain,Falco sparverius
+2020,1084.6,416,Hawk Mountain,Falco sparverius
+2019,1080.03,262,Hawk Mountain,Falco sparverius
+2018,1027.02,427,Hawk Mountain,Falco sparverius
+2017,1013.22,234,Hawk Mountain,Falco sparverius
+2016,1137.5,218,Hawk Mountain,Falco sparverius
+2015,1127.67,239,Hawk Mountain,Falco sparverius
+2014,1102.03,380,Hawk Mountain,Falco sparverius
+2013,1125.45,325,Hawk Mountain,Falco sparverius
+2012,1108.2,515,Hawk Mountain,Falco sparverius
+2011,1076.07,389,Hawk Mountain,Falco sparverius
+2010,1087.1,566,Hawk Mountain,Falco sparverius
+2009,1032.63,460,Hawk Mountain,Falco sparverius
+2008,1082.32,294,Hawk Mountain,Falco sparverius
+2007,1103.18,528,Hawk Mountain,Falco sparverius
+2006,1114.82,411,Hawk Mountain,Falco sparverius
+2005,1143.12,467,Hawk Mountain,Falco sparverius
+2004,1079.95,358,Hawk Mountain,Falco sparverius
+2003,1052.72,376,Hawk Mountain,Falco sparverius
+2002,1039.05,481,Hawk Mountain,Falco sparverius
+2001,1136.82,581,Hawk Mountain,Falco sparverius
+2000,1125.43,520,Hawk Mountain,Falco sparverius
+2023,714.3,1194,Goshutes,Falco sparverius
+2022,674.87,1012,Goshutes,Falco sparverius
+2021,672.13,567,Goshutes,Falco sparverius
+2019,662.6,529,Goshutes,Falco sparverius
+2018,706.75,1811,Goshutes,Falco sparverius
+2017,697.75,616,Goshutes,Falco sparverius
+2016,649.17,893,Goshutes,Falco sparverius
+2015,616.25,1881,Goshutes,Falco sparverius
+2014,641.17,1730,Goshutes,Falco sparverius
+2013,563.83,850,Goshutes,Falco sparverius
+2012,741.25,726,Goshutes,Falco sparverius
+2011,682.03,1132,Goshutes,Falco sparverius
+2010,692.6,1170,Goshutes,Falco sparverius
+2009,733.58,940,Goshutes,Falco sparverius
+2008,761.07,965,Goshutes,Falco sparverius
+2007,747.97,1174,Goshutes,Falco sparverius
+2006,719.58,820,Goshutes,Falco sparverius
+2005,695.3,1468,Goshutes,Falco sparverius
+2004,641.75,1709,Goshutes,Falco sparverius
+2003,688.25,1768,Goshutes,Falco sparverius
+2002,725.67,1503,Goshutes,Falco sparverius
+2001,787.33,2774,Goshutes,Falco sparverius
+2000,681.5,3149,Goshutes,Falco sparverius
+2023,900.62,4450,Cape May,Falco sparverius
+2022,896.25,5037,Cape May,Falco sparverius
+2021,898,4555,Cape May,Falco sparverius
+2020,873.27,4769,Cape May,Falco sparverius
+2019,905.67,2366,Cape May,Falco sparverius
+2018,914.43,10536,Cape May,Falco sparverius
+2017,900.32,6858,Cape May,Falco sparverius
+2016,933.32,3444,Cape May,Falco sparverius
+2015,884.55,2237,Cape May,Falco sparverius
+2014,906.67,4509,Cape May,Falco sparverius
+2013,866.58,3428,Cape May,Falco sparverius
+2012,1092,5623,Cape May,Falco sparverius
+2011,800.53,5247,Cape May,Falco sparverius
+2010,882.25,5651,Cape May,Falco sparverius
+2009,869.2,4016,Cape May,Falco sparverius
+2008,808.5,3034,Cape May,Falco sparverius
+2007,882.17,4646,Cape May,Falco sparverius
+2006,743.58,5255,Cape May,Falco sparverius
+2005,832.5,6163,Cape May,Falco sparverius
+2004,857.43,2672,Cape May,Falco sparverius
+2003,896.52,7345,Cape May,Falco sparverius
+2002,895.8,5405,Cape May,Falco sparverius
+2001,822.8,5188,Cape May,Falco sparverius
+2000,859.33,6392,Cape May,Falco sparverius
+2023,564,1323,Detroit River,Falco sparverius
+2022,567.25,981,Detroit River,Falco sparverius
+2021,546,1068,Detroit River,Falco sparverius
+2020,568,641,Detroit River,Falco sparverius
+2019,575.25,718,Detroit River,Falco sparverius
+2018,541.75,1104,Detroit River,Falco sparverius
+2017,636.75,538,Detroit River,Falco sparverius
+2016,635.5,551,Detroit River,Falco sparverius
+2015,648,816,Detroit River,Falco sparverius
+2014,627.5,563,Detroit River,Falco sparverius
+2013,642.5,681,Detroit River,Falco sparverius
+2012,619,531,Detroit River,Falco sparverius
+2011,591.5,664,Detroit River,Falco sparverius
+2010,564.5,675,Detroit River,Falco sparverius
+2009,519.42,441,Detroit River,Falco sparverius
+2008,464.9,404,Detroit River,Falco sparverius
+2007,598.5,1275,Detroit River,Falco sparverius
+2006,475.75,1314,Detroit River,Falco sparverius
+2005,456.25,1018,Detroit River,Falco sparverius
+2004,478.75,470,Detroit River,Falco sparverius
+2003,545.33,2128,Detroit River,Falco sparverius
+2002,561.5,2277,Detroit River,Falco sparverius
+2001,526,1026,Detroit River,Falco sparverius
+2000,510.2,790,Detroit River,Falco sparverius
+2023,682.5,3041,Florida Keys,Falco sparverius
+2022,866.5,3202,Florida Keys,Falco sparverius
+2021,904.25,2577,Florida Keys,Falco sparverius
+2020,455.25,2643,Florida Keys,Falco sparverius
+2019,409.25,2121,Florida Keys,Falco sparverius
+2018,409.75,1489,Florida Keys,Falco sparverius
+2017,25.75,0,Florida Keys,Falco sparverius
+2016,428,1814,Florida Keys,Falco sparverius
+2015,298.25,3125,Florida Keys,Falco sparverius
+2014,444.75,3638,Florida Keys,Falco sparverius
+2013,362,2018,Florida Keys,Falco sparverius
+2012,414.5,3242,Florida Keys,Falco sparverius
+2011,420,2101,Florida Keys,Falco sparverius
+2010,297.5,1305,Florida Keys,Falco sparverius
+2008,348.75,1788,Florida Keys,Falco sparverius
+2007,361,2257,Florida Keys,Falco sparverius
+2006,385.25,1275,Florida Keys,Falco sparverius
+2005,329.5,1437,Florida Keys,Falco sparverius
+2004,403.17,1849,Florida Keys,Falco sparverius
+2003,462.5,2130,Florida Keys,Falco sparverius
+2002,479.25,1825,Florida Keys,Falco sparverius
+2001,459.5,4338,Florida Keys,Falco sparverius
+2000,495,3029,Florida Keys,Falco sparverius
+2023,963.97,1811,Hawk Ridge,Falco sparverius
+2022,899.08,1209,Hawk Ridge,Falco sparverius
+2021,904.67,1268,Hawk Ridge,Falco sparverius
+2020,716.25,701,Hawk Ridge,Falco sparverius
+2019,859.42,1228,Hawk Ridge,Falco sparverius
+2018,723.7,697,Hawk Ridge,Falco sparverius
+2017,721.18,1500,Hawk Ridge,Falco sparverius
+2016,828,981,Hawk Ridge,Falco sparverius
+2015,804.33,1287,Hawk Ridge,Falco sparverius
+2014,846.93,1318,Hawk Ridge,Falco sparverius
+2013,830,1200,Hawk Ridge,Falco sparverius
+2012,888.65,1381,Hawk Ridge,Falco sparverius
+2011,961.4,1766,Hawk Ridge,Falco sparverius
+2010,902.12,1605,Hawk Ridge,Falco sparverius
+2009,908.27,1353,Hawk Ridge,Falco sparverius
+2008,927.92,1162,Hawk Ridge,Falco sparverius
+2007,784.1,1579,Hawk Ridge,Falco sparverius
+2006,740,986,Hawk Ridge,Falco sparverius
+2005,756,1891,Hawk Ridge,Falco sparverius
+2004,747.5,1997,Hawk Ridge,Falco sparverius
+2003,798.5,1248,Hawk Ridge,Falco sparverius
+2002,769.75,3637,Hawk Ridge,Falco sparverius
+2001,774.5,1953,Hawk Ridge,Falco sparverius
+2000,760.5,2619,Hawk Ridge,Falco sparverius
+2023,797.42,4115,Corpus Christi,Falco sparverius
+2022,835.1,1684,Corpus Christi,Falco sparverius
+2021,849.83,1140,Corpus Christi,Falco sparverius
+2020,819.5,827,Corpus Christi,Falco sparverius
+2019,852.75,903,Corpus Christi,Falco sparverius
+2018,831.53,1195,Corpus Christi,Falco sparverius
+2017,828.25,960,Corpus Christi,Falco sparverius
+2016,634,851,Corpus Christi,Falco sparverius
+2015,597,1142,Corpus Christi,Falco sparverius
+2014,587,1016,Corpus Christi,Falco sparverius
+2013,595.75,1353,Corpus Christi,Falco sparverius
+2012,736.08,1290,Corpus Christi,Falco sparverius
+2011,693.25,1381,Corpus Christi,Falco sparverius
+2010,689.25,614,Corpus Christi,Falco sparverius
+2009,688,869,Corpus Christi,Falco sparverius
+2008,830.42,1127,Corpus Christi,Falco sparverius
+2007,798.75,850,Corpus Christi,Falco sparverius
+2006,704.5,1137,Corpus Christi,Falco sparverius
+2005,715.75,485,Corpus Christi,Falco sparverius
+2004,701,365,Corpus Christi,Falco sparverius
+2003,643.5,860,Corpus Christi,Falco sparverius
+2002,676.5,811,Corpus Christi,Falco sparverius
+2001,723.5,292,Corpus Christi,Falco sparverius
+2000,728.58,509,Corpus Christi,Falco sparverius
+2022,410.75,115,Golden Gate,Falco sparverius
+2021,299.67,126,Golden Gate,Falco sparverius
+2020,443.62,286,Golden Gate,Falco sparverius
+2018,407.62,349,Golden Gate,Falco sparverius
+2017,473.5,268,Golden Gate,Falco sparverius
+2016,439.67,223,Golden Gate,Falco sparverius
+2015,539.53,297,Golden Gate,Falco sparverius
+2014,487.7,376,Golden Gate,Falco sparverius
+2013,490.08,428,Golden Gate,Falco sparverius
+2012,441.55,396,Golden Gate,Falco sparverius
+2011,438.78,358,Golden Gate,Falco sparverius
+2010,465.3,458,Golden Gate,Falco sparverius
+2009,496.75,458,Golden Gate,Falco sparverius
+2008,508.4,377,Golden Gate,Falco sparverius
+2007,523.5,378,Golden Gate,Falco sparverius
+2006,492.25,611,Golden Gate,Falco sparverius
+2005,454.5,627,Golden Gate,Falco sparverius
+2004,528.67,545,Golden Gate,Falco sparverius
+2003,500.28,690,Golden Gate,Falco sparverius
+2002,523.58,666,Golden Gate,Falco sparverius
+2001,445.37,577,Golden Gate,Falco sparverius
+2000,550.52,471,Golden Gate,Falco sparverius
+2023,893.6,4193,Veracruz,Falco sparverius
+2022,895.77,4001,Veracruz,Falco sparverius
+2019,883.55,2597,Veracruz,Falco sparverius
+2018,690.52,3062,Veracruz,Falco sparverius
+2017,840.25,3053,Veracruz,Falco sparverius
+2016,838.75,1820,Veracruz,Falco sparverius
+2015,754.58,2906,Veracruz,Falco sparverius
+2014,875.92,2707,Veracruz,Falco sparverius
+2013,868.9,2678,Veracruz,Falco sparverius
+2012,901.65,3527,Veracruz,Falco sparverius
+2011,895.75,3623,Veracruz,Falco sparverius
+2010,801.15,2166,Veracruz,Falco sparverius
+2009,828.45,2448,Veracruz,Falco sparverius
+2008,877.35,2213,Veracruz,Falco sparverius
+2007,907.98,2244,Veracruz,Falco sparverius
+2006,890.45,2559,Veracruz,Falco sparverius
+2005,873.75,2407,Veracruz,Falco sparverius
+2004,898.75,2295,Veracruz,Falco sparverius
+2003,893.48,3581,Veracruz,Falco sparverius
+2002,877.42,2964,Veracruz,Falco sparverius
+2001,867.67,2969,Veracruz,Falco sparverius
+2000,862.17,5901,Veracruz,Falco sparverius
+2023,367,15,Bonney Butte,Falco sparverius
+2022,468.17,16,Bonney Butte,Falco sparverius
+2021,404.33,14,Bonney Butte,Falco sparverius
+2019,302.42,10,Bonney Butte,Falco sparverius
+2018,394.17,7,Bonney Butte,Falco sparverius
+2017,412.08,5,Bonney Butte,Falco sparverius
+2016,293.75,7,Bonney Butte,Falco sparverius
+2015,311.57,8,Bonney Butte,Falco sparverius
+2014,351.57,10,Bonney Butte,Falco sparverius
+2013,331.75,14,Bonney Butte,Falco sparverius
+2012,451.45,22,Bonney Butte,Falco sparverius
+2011,414.33,8,Bonney Butte,Falco sparverius
+2010,421.42,9,Bonney Butte,Falco sparverius
+2009,425.75,27,Bonney Butte,Falco sparverius
+2008,481.83,16,Bonney Butte,Falco sparverius
+2007,396,7,Bonney Butte,Falco sparverius
+2006,459.92,17,Bonney Butte,Falco sparverius
+2005,392.92,9,Bonney Butte,Falco sparverius
+2004,340.58,14,Bonney Butte,Falco sparverius
+2003,402.42,19,Bonney Butte,Falco sparverius
+2002,423.67,21,Bonney Butte,Falco sparverius
+2001,415.75,23,Bonney Butte,Falco sparverius
+2000,328.5,21,Bonney Butte,Falco sparverius
+2023,1112.58,627,Hawk Mountain,Haliaeetus leucocephalus
+2022,1075.92,591,Hawk Mountain,Haliaeetus leucocephalus
+2021,1123.07,611,Hawk Mountain,Haliaeetus leucocephalus
+2020,1084.6,559,Hawk Mountain,Haliaeetus leucocephalus
+2019,1080.03,508,Hawk Mountain,Haliaeetus leucocephalus
+2018,1027.02,552,Hawk Mountain,Haliaeetus leucocephalus
+2017,1013.22,430,Hawk Mountain,Haliaeetus leucocephalus
+2016,1137.5,522,Hawk Mountain,Haliaeetus leucocephalus
+2015,1127.67,317,Hawk Mountain,Haliaeetus leucocephalus
+2014,1102.03,419,Hawk Mountain,Haliaeetus leucocephalus
+2013,1125.45,381,Hawk Mountain,Haliaeetus leucocephalus
+2012,1108.2,358,Hawk Mountain,Haliaeetus leucocephalus
+2011,1076.07,318,Hawk Mountain,Haliaeetus leucocephalus
+2010,1087.1,409,Hawk Mountain,Haliaeetus leucocephalus
+2009,1032.63,214,Hawk Mountain,Haliaeetus leucocephalus
+2008,1082.32,255,Hawk Mountain,Haliaeetus leucocephalus
+2007,1103.18,253,Hawk Mountain,Haliaeetus leucocephalus
+2006,1114.82,202,Hawk Mountain,Haliaeetus leucocephalus
+2005,1143.12,191,Hawk Mountain,Haliaeetus leucocephalus
+2004,1079.95,218,Hawk Mountain,Haliaeetus leucocephalus
+2003,1052.72,233,Hawk Mountain,Haliaeetus leucocephalus
+2002,1039.05,248,Hawk Mountain,Haliaeetus leucocephalus
+2001,1136.82,172,Hawk Mountain,Haliaeetus leucocephalus
+2000,1125.43,174,Hawk Mountain,Haliaeetus leucocephalus
+2023,714.3,14,Goshutes,Haliaeetus leucocephalus
+2022,674.87,13,Goshutes,Haliaeetus leucocephalus
+2021,672.13,8,Goshutes,Haliaeetus leucocephalus
+2020,,,Goshutes,Haliaeetus leucocephalus
+2019,662.6,15,Goshutes,Haliaeetus leucocephalus
+2018,706.75,14,Goshutes,Haliaeetus leucocephalus
+2017,697.75,14,Goshutes,Haliaeetus leucocephalus
+2016,649.17,11,Goshutes,Haliaeetus leucocephalus
+2015,616.25,15,Goshutes,Haliaeetus leucocephalus
+2014,641.17,16,Goshutes,Haliaeetus leucocephalus
+2013,563.83,15,Goshutes,Haliaeetus leucocephalus
+2012,741.25,16,Goshutes,Haliaeetus leucocephalus
+2011,682.03,10,Goshutes,Haliaeetus leucocephalus
+2010,692.6,6,Goshutes,Haliaeetus leucocephalus
+2009,733.58,6,Goshutes,Haliaeetus leucocephalus
+2008,761.07,6,Goshutes,Haliaeetus leucocephalus
+2007,747.97,10,Goshutes,Haliaeetus leucocephalus
+2006,719.58,9,Goshutes,Haliaeetus leucocephalus
+2005,695.3,11,Goshutes,Haliaeetus leucocephalus
+2004,641.75,12,Goshutes,Haliaeetus leucocephalus
+2003,688.25,9,Goshutes,Haliaeetus leucocephalus
+2002,725.67,12,Goshutes,Haliaeetus leucocephalus
+2001,787.33,8,Goshutes,Haliaeetus leucocephalus
+2000,681.5,14,Goshutes,Haliaeetus leucocephalus
+2023,900.62,824,Cape May,Haliaeetus leucocephalus
+2022,896.25,1247,Cape May,Haliaeetus leucocephalus
+2021,898,746,Cape May,Haliaeetus leucocephalus
+2020,873.27,635,Cape May,Haliaeetus leucocephalus
+2019,905.67,623,Cape May,Haliaeetus leucocephalus
+2018,914.43,941,Cape May,Haliaeetus leucocephalus
+2017,900.32,429,Cape May,Haliaeetus leucocephalus
+2016,933.32,532,Cape May,Haliaeetus leucocephalus
+2015,884.55,408,Cape May,Haliaeetus leucocephalus
+2014,906.67,672,Cape May,Haliaeetus leucocephalus
+2013,866.58,485,Cape May,Haliaeetus leucocephalus
+2012,1092,316,Cape May,Haliaeetus leucocephalus
+2011,800.53,426,Cape May,Haliaeetus leucocephalus
+2010,882.25,506,Cape May,Haliaeetus leucocephalus
+2009,869.2,476,Cape May,Haliaeetus leucocephalus
+2008,808.5,285,Cape May,Haliaeetus leucocephalus
+2007,882.17,278,Cape May,Haliaeetus leucocephalus
+2006,743.58,334,Cape May,Haliaeetus leucocephalus
+2005,832.5,262,Cape May,Haliaeetus leucocephalus
+2004,857.43,210,Cape May,Haliaeetus leucocephalus
+2003,896.52,178,Cape May,Haliaeetus leucocephalus
+2002,895.8,182,Cape May,Haliaeetus leucocephalus
+2001,822.8,229,Cape May,Haliaeetus leucocephalus
+2000,859.33,131,Cape May,Haliaeetus leucocephalus
+2023,564,178,Detroit River,Haliaeetus leucocephalus
+2022,567.25,92,Detroit River,Haliaeetus leucocephalus
+2021,546,83,Detroit River,Haliaeetus leucocephalus
+2020,568,73,Detroit River,Haliaeetus leucocephalus
+2019,575.25,107,Detroit River,Haliaeetus leucocephalus
+2018,541.75,81,Detroit River,Haliaeetus leucocephalus
+2017,636.75,238,Detroit River,Haliaeetus leucocephalus
+2016,635.5,142,Detroit River,Haliaeetus leucocephalus
+2015,648,219,Detroit River,Haliaeetus leucocephalus
+2014,627.5,354,Detroit River,Haliaeetus leucocephalus
+2013,642.5,350,Detroit River,Haliaeetus leucocephalus
+2012,619,222,Detroit River,Haliaeetus leucocephalus
+2011,591.5,235,Detroit River,Haliaeetus leucocephalus
+2010,564.5,220,Detroit River,Haliaeetus leucocephalus
+2009,519.42,118,Detroit River,Haliaeetus leucocephalus
+2008,464.9,141,Detroit River,Haliaeetus leucocephalus
+2007,598.5,211,Detroit River,Haliaeetus leucocephalus
+2006,475.75,162,Detroit River,Haliaeetus leucocephalus
+2005,456.25,116,Detroit River,Haliaeetus leucocephalus
+2004,478.75,118,Detroit River,Haliaeetus leucocephalus
+2003,545.33,147,Detroit River,Haliaeetus leucocephalus
+2002,561.5,185,Detroit River,Haliaeetus leucocephalus
+2001,526,115,Detroit River,Haliaeetus leucocephalus
+2000,510.2,83,Detroit River,Haliaeetus leucocephalus
+2023,682.5,10,Florida Keys,Haliaeetus leucocephalus
+2022,866.5,16,Florida Keys,Haliaeetus leucocephalus
+2021,904.25,16,Florida Keys,Haliaeetus leucocephalus
+2020,455.25,23,Florida Keys,Haliaeetus leucocephalus
+2019,409.25,4,Florida Keys,Haliaeetus leucocephalus
+2018,409.75,20,Florida Keys,Haliaeetus leucocephalus
+2017,25.75,0,Florida Keys,Haliaeetus leucocephalus
+2016,428,16,Florida Keys,Haliaeetus leucocephalus
+2015,298.25,46,Florida Keys,Haliaeetus leucocephalus
+2014,444.75,34,Florida Keys,Haliaeetus leucocephalus
+2013,362,9,Florida Keys,Haliaeetus leucocephalus
+2012,414.5,22,Florida Keys,Haliaeetus leucocephalus
+2011,420,12,Florida Keys,Haliaeetus leucocephalus
+2010,297.5,22,Florida Keys,Haliaeetus leucocephalus
+2009,,,Florida Keys,Haliaeetus leucocephalus
+2008,348.75,0,Florida Keys,Haliaeetus leucocephalus
+2007,361,16,Florida Keys,Haliaeetus leucocephalus
+2006,385.25,16,Florida Keys,Haliaeetus leucocephalus
+2005,329.5,0,Florida Keys,Haliaeetus leucocephalus
+2004,403.17,0,Florida Keys,Haliaeetus leucocephalus
+2003,462.5,15,Florida Keys,Haliaeetus leucocephalus
+2002,479.25,21,Florida Keys,Haliaeetus leucocephalus
+2001,459.5,19,Florida Keys,Haliaeetus leucocephalus
+2000,495,14,Florida Keys,Haliaeetus leucocephalus
+2023,963.97,4519,Hawk Ridge,Haliaeetus leucocephalus
+2022,899.08,4279,Hawk Ridge,Haliaeetus leucocephalus
+2021,904.67,4938,Hawk Ridge,Haliaeetus leucocephalus
+2020,716.25,5300,Hawk Ridge,Haliaeetus leucocephalus
+2019,859.42,6177,Hawk Ridge,Haliaeetus leucocephalus
+2018,723.7,4603,Hawk Ridge,Haliaeetus leucocephalus
+2017,721.18,6099,Hawk Ridge,Haliaeetus leucocephalus
+2016,828,5925,Hawk Ridge,Haliaeetus leucocephalus
+2015,804.33,5671,Hawk Ridge,Haliaeetus leucocephalus
+2014,846.93,5055,Hawk Ridge,Haliaeetus leucocephalus
+2013,830,4697,Hawk Ridge,Haliaeetus leucocephalus
+2012,888.65,4804,Hawk Ridge,Haliaeetus leucocephalus
+2011,961.4,5778,Hawk Ridge,Haliaeetus leucocephalus
+2010,902.12,4437,Hawk Ridge,Haliaeetus leucocephalus
+2009,908.27,3844,Hawk Ridge,Haliaeetus leucocephalus
+2008,927.92,3238,Hawk Ridge,Haliaeetus leucocephalus
+2007,784.1,3259,Hawk Ridge,Haliaeetus leucocephalus
+2006,740,3221,Hawk Ridge,Haliaeetus leucocephalus
+2005,756,4278,Hawk Ridge,Haliaeetus leucocephalus
+2004,747.5,3529,Hawk Ridge,Haliaeetus leucocephalus
+2003,798.5,3242,Hawk Ridge,Haliaeetus leucocephalus
+2002,769.75,3754,Hawk Ridge,Haliaeetus leucocephalus
+2001,774.5,3249,Hawk Ridge,Haliaeetus leucocephalus
+2000,760.5,1881,Hawk Ridge,Haliaeetus leucocephalus
+2023,797.42,9,Corpus Christi,Haliaeetus leucocephalus
+2022,835.1,15,Corpus Christi,Haliaeetus leucocephalus
+2021,849.83,5,Corpus Christi,Haliaeetus leucocephalus
+2020,819.5,17,Corpus Christi,Haliaeetus leucocephalus
+2019,852.75,21,Corpus Christi,Haliaeetus leucocephalus
+2018,831.53,17,Corpus Christi,Haliaeetus leucocephalus
+2017,828.25,13,Corpus Christi,Haliaeetus leucocephalus
+2016,634,9,Corpus Christi,Haliaeetus leucocephalus
+2015,597,14,Corpus Christi,Haliaeetus leucocephalus
+2014,587,15,Corpus Christi,Haliaeetus leucocephalus
+2013,595.75,6,Corpus Christi,Haliaeetus leucocephalus
+2012,736.08,7,Corpus Christi,Haliaeetus leucocephalus
+2011,693.25,10,Corpus Christi,Haliaeetus leucocephalus
+2010,689.25,12,Corpus Christi,Haliaeetus leucocephalus
+2009,688,1,Corpus Christi,Haliaeetus leucocephalus
+2008,830.42,10,Corpus Christi,Haliaeetus leucocephalus
+2007,798.75,7,Corpus Christi,Haliaeetus leucocephalus
+2006,704.5,5,Corpus Christi,Haliaeetus leucocephalus
+2005,715.75,4,Corpus Christi,Haliaeetus leucocephalus
+2004,701,3,Corpus Christi,Haliaeetus leucocephalus
+2003,643.5,1,Corpus Christi,Haliaeetus leucocephalus
+2002,676.5,1,Corpus Christi,Haliaeetus leucocephalus
+2001,723.5,2,Corpus Christi,Haliaeetus leucocephalus
+2000,728.58,0,Corpus Christi,Haliaeetus leucocephalus
+2023,,,Golden Gate,Haliaeetus leucocephalus
+2022,410.75,20,Golden Gate,Haliaeetus leucocephalus
+2021,299.67,9,Golden Gate,Haliaeetus leucocephalus
+2020,443.62,19,Golden Gate,Haliaeetus leucocephalus
+2019,,,Golden Gate,Haliaeetus leucocephalus
+2018,407.62,14,Golden Gate,Haliaeetus leucocephalus
+2017,473.5,17,Golden Gate,Haliaeetus leucocephalus
+2016,439.67,8,Golden Gate,Haliaeetus leucocephalus
+2015,539.53,8,Golden Gate,Haliaeetus leucocephalus
+2014,487.7,8,Golden Gate,Haliaeetus leucocephalus
+2013,490.08,12,Golden Gate,Haliaeetus leucocephalus
+2012,441.55,8,Golden Gate,Haliaeetus leucocephalus
+2011,438.78,9,Golden Gate,Haliaeetus leucocephalus
+2010,465.3,5,Golden Gate,Haliaeetus leucocephalus
+2009,496.75,10,Golden Gate,Haliaeetus leucocephalus
+2008,508.4,6,Golden Gate,Haliaeetus leucocephalus
+2007,523.5,2,Golden Gate,Haliaeetus leucocephalus
+2006,492.25,2,Golden Gate,Haliaeetus leucocephalus
+2005,454.5,6,Golden Gate,Haliaeetus leucocephalus
+2004,528.67,3,Golden Gate,Haliaeetus leucocephalus
+2003,500.28,4,Golden Gate,Haliaeetus leucocephalus
+2002,523.58,4,Golden Gate,Haliaeetus leucocephalus
+2001,445.37,4,Golden Gate,Haliaeetus leucocephalus
+2000,550.52,6,Golden Gate,Haliaeetus leucocephalus
+2023,367,98,Bonney Butte,Haliaeetus leucocephalus
+2022,468.17,84,Bonney Butte,Haliaeetus leucocephalus
+2021,404.33,140,Bonney Butte,Haliaeetus leucocephalus
+2020,,,Bonney Butte,Haliaeetus leucocephalus
+2019,302.42,73,Bonney Butte,Haliaeetus leucocephalus
+2018,394.17,147,Bonney Butte,Haliaeetus leucocephalus
+2017,412.08,86,Bonney Butte,Haliaeetus leucocephalus
+2016,293.75,83,Bonney Butte,Haliaeetus leucocephalus
+2015,311.57,78,Bonney Butte,Haliaeetus leucocephalus
+2014,351.57,38,Bonney Butte,Haliaeetus leucocephalus
+2013,331.75,61,Bonney Butte,Haliaeetus leucocephalus
+2012,451.45,48,Bonney Butte,Haliaeetus leucocephalus
+2011,414.33,93,Bonney Butte,Haliaeetus leucocephalus
+2010,421.42,68,Bonney Butte,Haliaeetus leucocephalus
+2009,425.75,55,Bonney Butte,Haliaeetus leucocephalus
+2008,481.83,46,Bonney Butte,Haliaeetus leucocephalus
+2007,396,45,Bonney Butte,Haliaeetus leucocephalus
+2006,459.92,44,Bonney Butte,Haliaeetus leucocephalus
+2005,392.92,55,Bonney Butte,Haliaeetus leucocephalus
+2004,340.58,61,Bonney Butte,Haliaeetus leucocephalus
+2003,402.42,68,Bonney Butte,Haliaeetus leucocephalus
+2002,423.67,55,Bonney Butte,Haliaeetus leucocephalus
+2001,415.75,52,Bonney Butte,Haliaeetus leucocephalus
+2000,328.5,37,Bonney Butte,Haliaeetus leucocephalus
+2023,1112.58,219,Hawk Mountain,Pandion haliaetus
+2022,1075.92,219,Hawk Mountain,Pandion haliaetus
+2021,1123.07,339,Hawk Mountain,Pandion haliaetus
+2020,1084.6,288,Hawk Mountain,Pandion haliaetus
+2019,1080.03,291,Hawk Mountain,Pandion haliaetus
+2018,1027.02,338,Hawk Mountain,Pandion haliaetus
+2017,1013.22,277,Hawk Mountain,Pandion haliaetus
+2016,1137.5,349,Hawk Mountain,Pandion haliaetus
+2015,1127.67,338,Hawk Mountain,Pandion haliaetus
+2014,1102.03,467,Hawk Mountain,Pandion haliaetus
+2013,1125.45,396,Hawk Mountain,Pandion haliaetus
+2012,1108.2,575,Hawk Mountain,Pandion haliaetus
+2011,1076.07,464,Hawk Mountain,Pandion haliaetus
+2010,1087.1,659,Hawk Mountain,Pandion haliaetus
+2009,1032.63,454,Hawk Mountain,Pandion haliaetus
+2008,1082.32,474,Hawk Mountain,Pandion haliaetus
+2007,1103.18,718,Hawk Mountain,Pandion haliaetus
+2006,1114.82,675,Hawk Mountain,Pandion haliaetus
+2005,1143.12,480,Hawk Mountain,Pandion haliaetus
+2004,1079.95,672,Hawk Mountain,Pandion haliaetus
+2003,1052.72,680,Hawk Mountain,Pandion haliaetus
+2002,1039.05,706,Hawk Mountain,Pandion haliaetus
+2001,1136.82,573,Hawk Mountain,Pandion haliaetus
+2000,1125.43,493,Hawk Mountain,Pandion haliaetus
+2023,714.3,115,Goshutes,Pandion haliaetus
+2022,674.87,199,Goshutes,Pandion haliaetus
+2021,672.13,74,Goshutes,Pandion haliaetus
+2020,,,Goshutes,Pandion haliaetus
+2019,662.6,61,Goshutes,Pandion haliaetus
+2018,706.75,142,Goshutes,Pandion haliaetus
+2017,697.75,88,Goshutes,Pandion haliaetus
+2016,649.17,54,Goshutes,Pandion haliaetus
+2015,616.25,162,Goshutes,Pandion haliaetus
+2014,641.17,125,Goshutes,Pandion haliaetus
+2013,563.83,117,Goshutes,Pandion haliaetus
+2012,741.25,95,Goshutes,Pandion haliaetus
+2011,682.03,129,Goshutes,Pandion haliaetus
+2010,692.6,126,Goshutes,Pandion haliaetus
+2009,733.58,59,Goshutes,Pandion haliaetus
+2008,761.07,89,Goshutes,Pandion haliaetus
+2007,747.97,113,Goshutes,Pandion haliaetus
+2006,719.58,68,Goshutes,Pandion haliaetus
+2005,695.3,83,Goshutes,Pandion haliaetus
+2004,641.75,120,Goshutes,Pandion haliaetus
+2003,688.25,96,Goshutes,Pandion haliaetus
+2002,725.67,83,Goshutes,Pandion haliaetus
+2001,787.33,152,Goshutes,Pandion haliaetus
+2000,681.5,152,Goshutes,Pandion haliaetus
+2023,900.62,4000,Cape May,Pandion haliaetus
+2022,896.25,4890,Cape May,Pandion haliaetus
+2021,898,3723,Cape May,Pandion haliaetus
+2020,873.27,4081,Cape May,Pandion haliaetus
+2019,905.67,4870,Cape May,Pandion haliaetus
+2018,914.43,6027,Cape May,Pandion haliaetus
+2017,900.32,2725,Cape May,Pandion haliaetus
+2016,933.32,4261,Cape May,Pandion haliaetus
+2015,884.55,3345,Cape May,Pandion haliaetus
+2014,906.67,3817,Cape May,Pandion haliaetus
+2013,866.58,3029,Cape May,Pandion haliaetus
+2012,1092,2769,Cape May,Pandion haliaetus
+2011,800.53,2628,Cape May,Pandion haliaetus
+2010,882.25,4576,Cape May,Pandion haliaetus
+2009,869.2,2603,Cape May,Pandion haliaetus
+2008,808.5,1010,Cape May,Pandion haliaetus
+2007,882.17,1656,Cape May,Pandion haliaetus
+2006,743.58,2508,Cape May,Pandion haliaetus
+2005,832.5,2447,Cape May,Pandion haliaetus
+2004,857.43,1912,Cape May,Pandion haliaetus
+2003,896.52,1975,Cape May,Pandion haliaetus
+2002,895.8,2038,Cape May,Pandion haliaetus
+2001,822.8,1643,Cape May,Pandion haliaetus
+2000,859.33,1904,Cape May,Pandion haliaetus
+2023,564,53,Detroit River,Pandion haliaetus
+2022,567.25,18,Detroit River,Pandion haliaetus
+2021,546,26,Detroit River,Pandion haliaetus
+2020,568,31,Detroit River,Pandion haliaetus
+2019,575.25,41,Detroit River,Pandion haliaetus
+2018,541.75,38,Detroit River,Pandion haliaetus
+2017,636.75,34,Detroit River,Pandion haliaetus
+2016,635.5,23,Detroit River,Pandion haliaetus
+2015,648,81,Detroit River,Pandion haliaetus
+2014,627.5,56,Detroit River,Pandion haliaetus
+2013,642.5,71,Detroit River,Pandion haliaetus
+2012,619,70,Detroit River,Pandion haliaetus
+2011,591.5,85,Detroit River,Pandion haliaetus
+2010,564.5,63,Detroit River,Pandion haliaetus
+2009,519.42,46,Detroit River,Pandion haliaetus
+2008,464.9,140,Detroit River,Pandion haliaetus
+2007,598.5,195,Detroit River,Pandion haliaetus
+2006,475.75,196,Detroit River,Pandion haliaetus
+2005,456.25,218,Detroit River,Pandion haliaetus
+2004,478.75,201,Detroit River,Pandion haliaetus
+2003,545.33,234,Detroit River,Pandion haliaetus
+2002,561.5,238,Detroit River,Pandion haliaetus
+2001,526,213,Detroit River,Pandion haliaetus
+2000,510.2,133,Detroit River,Pandion haliaetus
+2023,682.5,2848,Florida Keys,Pandion haliaetus
+2022,866.5,3248,Florida Keys,Pandion haliaetus
+2021,904.25,3744,Florida Keys,Pandion haliaetus
+2020,455.25,2710,Florida Keys,Pandion haliaetus
+2019,409.25,2250,Florida Keys,Pandion haliaetus
+2018,409.75,2992,Florida Keys,Pandion haliaetus
+2017,25.75,42,Florida Keys,Pandion haliaetus
+2016,428,2206,Florida Keys,Pandion haliaetus
+2015,298.25,1653,Florida Keys,Pandion haliaetus
+2014,444.75,3635,Florida Keys,Pandion haliaetus
+2013,362,1529,Florida Keys,Pandion haliaetus
+2012,414.5,1454,Florida Keys,Pandion haliaetus
+2011,420,1035,Florida Keys,Pandion haliaetus
+2010,297.5,453,Florida Keys,Pandion haliaetus
+2009,,,Florida Keys,Pandion haliaetus
+2008,348.75,962,Florida Keys,Pandion haliaetus
+2007,361,1139,Florida Keys,Pandion haliaetus
+2006,385.25,1050,Florida Keys,Pandion haliaetus
+2005,329.5,1057,Florida Keys,Pandion haliaetus
+2004,403.17,925,Florida Keys,Pandion haliaetus
+2003,462.5,1431,Florida Keys,Pandion haliaetus
+2002,479.25,1652,Florida Keys,Pandion haliaetus
+2001,459.5,983,Florida Keys,Pandion haliaetus
+2000,495,1093,Florida Keys,Pandion haliaetus
+2023,963.97,259,Hawk Ridge,Pandion haliaetus
+2022,899.08,124,Hawk Ridge,Pandion haliaetus
+2021,904.67,178,Hawk Ridge,Pandion haliaetus
+2020,716.25,144,Hawk Ridge,Pandion haliaetus
+2019,859.42,201,Hawk Ridge,Pandion haliaetus
+2018,723.7,199,Hawk Ridge,Pandion haliaetus
+2017,721.18,279,Hawk Ridge,Pandion haliaetus
+2016,828,396,Hawk Ridge,Pandion haliaetus
+2015,804.33,237,Hawk Ridge,Pandion haliaetus
+2014,846.93,228,Hawk Ridge,Pandion haliaetus
+2013,830,277,Hawk Ridge,Pandion haliaetus
+2012,888.65,149,Hawk Ridge,Pandion haliaetus
+2011,961.4,338,Hawk Ridge,Pandion haliaetus
+2010,902.12,240,Hawk Ridge,Pandion haliaetus
+2009,908.27,351,Hawk Ridge,Pandion haliaetus
+2008,927.92,238,Hawk Ridge,Pandion haliaetus
+2007,784.1,196,Hawk Ridge,Pandion haliaetus
+2006,740,153,Hawk Ridge,Pandion haliaetus
+2005,756,539,Hawk Ridge,Pandion haliaetus
+2004,747.5,365,Hawk Ridge,Pandion haliaetus
+2003,798.5,293,Hawk Ridge,Pandion haliaetus
+2002,769.75,522,Hawk Ridge,Pandion haliaetus
+2001,774.5,381,Hawk Ridge,Pandion haliaetus
+2000,760.5,309,Hawk Ridge,Pandion haliaetus
+2023,797.42,405,Corpus Christi,Pandion haliaetus
+2022,835.1,208,Corpus Christi,Pandion haliaetus
+2021,849.83,186,Corpus Christi,Pandion haliaetus
+2020,819.5,193,Corpus Christi,Pandion haliaetus
+2019,852.75,278,Corpus Christi,Pandion haliaetus
+2018,831.53,187,Corpus Christi,Pandion haliaetus
+2017,828.25,138,Corpus Christi,Pandion haliaetus
+2016,634,189,Corpus Christi,Pandion haliaetus
+2015,597,183,Corpus Christi,Pandion haliaetus
+2014,587,211,Corpus Christi,Pandion haliaetus
+2013,595.75,281,Corpus Christi,Pandion haliaetus
+2012,736.08,256,Corpus Christi,Pandion haliaetus
+2011,693.25,351,Corpus Christi,Pandion haliaetus
+2010,689.25,182,Corpus Christi,Pandion haliaetus
+2009,688,256,Corpus Christi,Pandion haliaetus
+2008,830.42,197,Corpus Christi,Pandion haliaetus
+2007,798.75,237,Corpus Christi,Pandion haliaetus
+2006,704.5,321,Corpus Christi,Pandion haliaetus
+2005,715.75,241,Corpus Christi,Pandion haliaetus
+2004,701,207,Corpus Christi,Pandion haliaetus
+2003,643.5,199,Corpus Christi,Pandion haliaetus
+2002,676.5,146,Corpus Christi,Pandion haliaetus
+2001,723.5,114,Corpus Christi,Pandion haliaetus
+2000,728.58,88,Corpus Christi,Pandion haliaetus
+2023,,,Golden Gate,Pandion haliaetus
+2022,410.75,41,Golden Gate,Pandion haliaetus
+2021,299.67,58,Golden Gate,Pandion haliaetus
+2020,443.62,59,Golden Gate,Pandion haliaetus
+2019,,,Golden Gate,Pandion haliaetus
+2018,407.62,67,Golden Gate,Pandion haliaetus
+2017,473.5,63,Golden Gate,Pandion haliaetus
+2016,439.67,64,Golden Gate,Pandion haliaetus
+2015,539.53,83,Golden Gate,Pandion haliaetus
+2014,487.7,79,Golden Gate,Pandion haliaetus
+2013,490.08,54,Golden Gate,Pandion haliaetus
+2012,441.55,62,Golden Gate,Pandion haliaetus
+2011,438.78,57,Golden Gate,Pandion haliaetus
+2010,465.3,55,Golden Gate,Pandion haliaetus
+2009,496.75,81,Golden Gate,Pandion haliaetus
+2008,508.4,88,Golden Gate,Pandion haliaetus
+2007,523.5,90,Golden Gate,Pandion haliaetus
+2006,492.25,108,Golden Gate,Pandion haliaetus
+2005,454.5,110,Golden Gate,Pandion haliaetus
+2004,528.67,123,Golden Gate,Pandion haliaetus
+2003,500.28,134,Golden Gate,Pandion haliaetus
+2002,523.58,106,Golden Gate,Pandion haliaetus
+2001,445.37,71,Golden Gate,Pandion haliaetus
+2000,550.52,138,Golden Gate,Pandion haliaetus
+2023,893.6,832,Veracruz,Pandion haliaetus
+2022,895.77,1132,Veracruz,Pandion haliaetus
+2021,,,Veracruz,Pandion haliaetus
+2020,,,Veracruz,Pandion haliaetus
+2019,883.55,1284,Veracruz,Pandion haliaetus
+2018,690.52,1534,Veracruz,Pandion haliaetus
+2017,840.25,1586,Veracruz,Pandion haliaetus
+2016,838.75,1304,Veracruz,Pandion haliaetus
+2015,754.58,1446,Veracruz,Pandion haliaetus
+2014,875.92,1449,Veracruz,Pandion haliaetus
+2013,868.9,1534,Veracruz,Pandion haliaetus
+2012,901.65,1711,Veracruz,Pandion haliaetus
+2011,895.75,1691,Veracruz,Pandion haliaetus
+2010,801.15,1455,Veracruz,Pandion haliaetus
+2009,828.45,2133,Veracruz,Pandion haliaetus
+2008,877.35,1633,Veracruz,Pandion haliaetus
+2007,907.98,1752,Veracruz,Pandion haliaetus
+2006,890.45,2797,Veracruz,Pandion haliaetus
+2005,873.75,1823,Veracruz,Pandion haliaetus
+2004,898.75,1476,Veracruz,Pandion haliaetus
+2003,893.48,2035,Veracruz,Pandion haliaetus
+2002,877.42,1895,Veracruz,Pandion haliaetus
+2001,867.67,2502,Veracruz,Pandion haliaetus
+2000,862.17,2301,Veracruz,Pandion haliaetus
+2023,367,55,Bonney Butte,Pandion haliaetus
+2022,468.17,93,Bonney Butte,Pandion haliaetus
+2021,404.33,100,Bonney Butte,Pandion haliaetus
+2020,,,Bonney Butte,Pandion haliaetus
+2019,302.42,48,Bonney Butte,Pandion haliaetus
+2018,394.17,87,Bonney Butte,Pandion haliaetus
+2017,412.08,78,Bonney Butte,Pandion haliaetus
+2016,293.75,66,Bonney Butte,Pandion haliaetus
+2015,311.57,67,Bonney Butte,Pandion haliaetus
+2014,351.57,53,Bonney Butte,Pandion haliaetus
+2013,331.75,58,Bonney Butte,Pandion haliaetus
+2012,451.45,121,Bonney Butte,Pandion haliaetus
+2011,414.33,72,Bonney Butte,Pandion haliaetus
+2010,421.42,81,Bonney Butte,Pandion haliaetus
+2009,425.75,101,Bonney Butte,Pandion haliaetus
+2008,481.83,70,Bonney Butte,Pandion haliaetus
+2007,396,47,Bonney Butte,Pandion haliaetus
+2006,459.92,38,Bonney Butte,Pandion haliaetus
+2005,392.92,60,Bonney Butte,Pandion haliaetus
+2004,340.58,70,Bonney Butte,Pandion haliaetus
+2003,402.42,97,Bonney Butte,Pandion haliaetus
+2002,423.67,50,Bonney Butte,Pandion haliaetus
+2001,415.75,78,Bonney Butte,Pandion haliaetus
+2000,328.5,107,Bonney Butte,Pandion haliaetus
